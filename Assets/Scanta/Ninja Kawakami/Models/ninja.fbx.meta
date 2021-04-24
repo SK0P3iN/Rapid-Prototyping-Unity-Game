@@ -1,0 +1,4088 @@
+fileFormatVersion: 2
+guid: b5b278f207bfe45c0b303680eb3e6c89
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ninja:skinCluster1Set1
+  - first:
+      1: 100002
+    second: ninja:skinCluster2Set
+  - first:
+      1: 100004
+    second: ninja:skinCluster2Set1
+  - first:
+      1: 100006
+    second: ninja:skinCluster3Set
+  - first:
+      1: 100008
+    second: ninja:skinCluster4Set
+  - first:
+      1: 100010
+    second: ninja:skinCluster5Set
+  - first:
+      1: 100012
+    second: ninja:skinCluster6Set
+  - first:
+      1: 100014
+    second: //RootNode
+  - first:
+      1: 100016
+    second: ninja_rig_0004:AimEye
+  - first:
+      1: 100018
+    second: ninja_rig_0004:AimFollowEye
+  - first:
+      1: 100020
+    second: ninja_rig_0004:AimFollowOffEye
+  - first:
+      1: 100022
+    second: ninja_rig_0004:AimFollowOnEye
+  - first:
+      1: 100024
+    second: ninja_rig_0004:AimOffsetEye
+  - first:
+      1: 100026
+    second: ninja_rig_0004:AimSystem
+  - first:
+      1: 100028
+    second: ninja_rig_0004:AlignIKToAnkle_L
+  - first:
+      1: 100030
+    second: ninja_rig_0004:AlignIKToAnkle_R
+  - first:
+      1: 100032
+    second: ninja_rig_0004:AlignIKToWrist_L
+  - first:
+      1: 100034
+    second: ninja_rig_0004:Ankle
+  - first:
+      1: 100036
+    second: ninja_rig_0004:Ankle_L
+  - first:
+      1: 100038
+    second: ninja_rig_0004:Ankle_R
+  - first:
+      1: 100040
+    second: ninja_rig_0004:BendSystem
+  - first:
+      1: 100042
+    second: ninja_rig_0004:Chest
+  - first:
+      1: 100044
+    second: ninja_rig_0004:Chest_M
+  - first:
+      1: 100046
+    second: ninja_rig_0004:Cloth2:Group2
+  - first:
+      1: 100048
+    second: ninja_rig_0004:ConstraintSystem
+  - first:
+      1: 100050
+    second: ninja_rig_0004:DeformationSystem
+  - first:
+      1: 100052
+    second: ninja_rig_0004:DrivingSystem
+  - first:
+      1: 100054
+    second: ninja_rig_0004:DynamicSystem
+  - first:
+      1: 100056
+    second: ninja_rig_0004:Elbow
+  - first:
+      1: 100058
+    second: ninja_rig_0004:Elbow_L
+  - first:
+      1: 100060
+    second: ninja_rig_0004:Elbow_R
+  - first:
+      1: 100062
+    second: ninja_rig_0004:Extract2:Group13289
+  - first:
+      1: 100064
+    second: ninja_rig_0004:Eye
+  - first:
+      1: 100066
+    second: ninja_rig_0004:Eye_L
+  - first:
+      1: 100068
+    second: ninja_rig_0004:Eye_R
+  - first:
+      1: 100070
+    second: ninja_rig_0004:EyeEnd
+  - first:
+      1: 100072
+    second: ninja_rig_0004:EyeEnd_L
+  - first:
+      1: 100074
+    second: ninja_rig_0004:EyeEnd_R
+  - first:
+      1: 100076
+    second: ninja_rig_0004:Face:Group3
+  - first:
+      1: 100078
+    second: ninja_rig_0004:FitSkeleton
+  - first:
+      1: 100080
+    second: ninja_rig_0004:FKAnkle_L
+  - first:
+      1: 100082
+    second: ninja_rig_0004:FKAnkle_R
+  - first:
+      1: 100084
+    second: ninja_rig_0004:FKElbow_L
+  - first:
+      1: 100086
+    second: ninja_rig_0004:FKExtraAnkle_L
+  - first:
+      1: 100088
+    second: ninja_rig_0004:FKExtraAnkle_R
+  - first:
+      1: 100090
+    second: ninja_rig_0004:FKExtraElbow_L
+  - first:
+      1: 100092
+    second: ninja_rig_0004:FKExtraHip_L
+  - first:
+      1: 100094
+    second: ninja_rig_0004:FKExtraHip_R
+  - first:
+      1: 100096
+    second: ninja_rig_0004:FKExtraIndexFinger1_L
+  - first:
+      1: 100098
+    second: ninja_rig_0004:FKExtraIndexFinger1_R
+  - first:
+      1: 100100
+    second: ninja_rig_0004:FKExtraKnee_L
+  - first:
+      1: 100102
+    second: ninja_rig_0004:FKExtraKnee_R
+  - first:
+      1: 100104
+    second: ninja_rig_0004:FKExtraMiddleFinger1_L
+  - first:
+      1: 100106
+    second: ninja_rig_0004:FKExtraMiddleFinger1_R
+  - first:
+      1: 100108
+    second: ninja_rig_0004:FKExtraNeck_M
+  - first:
+      1: 100110
+    second: ninja_rig_0004:FKExtraPinkyFinger1_L
+  - first:
+      1: 100112
+    second: ninja_rig_0004:FKExtraPinkyFinger1_R
+  - first:
+      1: 100114
+    second: ninja_rig_0004:FKExtraRingFinger1_L
+  - first:
+      1: 100116
+    second: ninja_rig_0004:FKExtraRingFinger1_R
+  - first:
+      1: 100118
+    second: ninja_rig_0004:FKExtraRoot_M
+  - first:
+      1: 100120
+    second: ninja_rig_0004:FKExtraScapula_L
+  - first:
+      1: 100122
+    second: ninja_rig_0004:FKExtraScapula_R
+  - first:
+      1: 100124
+    second: ninja_rig_0004:FKExtraShoulder_L
+  - first:
+      1: 100126
+    second: ninja_rig_0004:FKExtraShoulder_R
+  - first:
+      1: 100128
+    second: ninja_rig_0004:FKExtraThumbFinger1_L
+  - first:
+      1: 100130
+    second: ninja_rig_0004:FKExtraThumbFinger1_R
+  - first:
+      1: 100132
+    second: ninja_rig_0004:FKExtraToes_L
+  - first:
+      1: 100134
+    second: ninja_rig_0004:FKExtraToes_R
+  - first:
+      1: 100136
+    second: ninja_rig_0004:FKExtraWrist_L
+  - first:
+      1: 100138
+    second: ninja_rig_0004:FKHip_L
+  - first:
+      1: 100140
+    second: ninja_rig_0004:FKHip_R
+  - first:
+      1: 100142
+    second: ninja_rig_0004:FKIKMixElbow_L
+  - first:
+      1: 100144
+    second: ninja_rig_0004:FKIKMixElbow_R
+  - first:
+      1: 100146
+    second: ninja_rig_0004:FKIKParentConstraintArm_L
+  - first:
+      1: 100148
+    second: ninja_rig_0004:FKIKParentConstraintArm_R
+  - first:
+      1: 100150
+    second: ninja_rig_0004:FKIKParentConstraintLeg_L
+  - first:
+      1: 100152
+    second: ninja_rig_0004:FKIKParentConstraintLeg_R
+  - first:
+      1: 100154
+    second: ninja_rig_0004:FKIKParentConstraintSpine_M
+  - first:
+      1: 100156
+    second: ninja_rig_0004:FKIKSystem
+  - first:
+      1: 100158
+    second: ninja_rig_0004:FKKnee_L
+  - first:
+      1: 100160
+    second: ninja_rig_0004:FKKnee_R
+  - first:
+      1: 100162
+    second: ninja_rig_0004:FKOffsetAnkle_L
+  - first:
+      1: 100164
+    second: ninja_rig_0004:FKOffsetAnkle_R
+  - first:
+      1: 100166
+    second: ninja_rig_0004:FKOffsetElbow_L
+  - first:
+      1: 100168
+    second: ninja_rig_0004:FKOffsetHip_L
+  - first:
+      1: 100170
+    second: ninja_rig_0004:FKOffsetHip_R
+  - first:
+      1: 100172
+    second: ninja_rig_0004:FKOffsetIndexFinger1_L
+  - first:
+      1: 100174
+    second: ninja_rig_0004:FKOffsetIndexFinger1_R
+  - first:
+      1: 100176
+    second: ninja_rig_0004:FKOffsetKnee_L
+  - first:
+      1: 100178
+    second: ninja_rig_0004:FKOffsetKnee_R
+  - first:
+      1: 100180
+    second: ninja_rig_0004:FKOffsetMiddleFinger1_L
+  - first:
+      1: 100182
+    second: ninja_rig_0004:FKOffsetMiddleFinger1_R
+  - first:
+      1: 100184
+    second: ninja_rig_0004:FKOffsetNeck_M
+  - first:
+      1: 100186
+    second: ninja_rig_0004:FKOffsetPinkyFinger1_L
+  - first:
+      1: 100188
+    second: ninja_rig_0004:FKOffsetPinkyFinger1_R
+  - first:
+      1: 100190
+    second: ninja_rig_0004:FKOffsetRingFinger1_L
+  - first:
+      1: 100192
+    second: ninja_rig_0004:FKOffsetRingFinger1_R
+  - first:
+      1: 100194
+    second: ninja_rig_0004:FKOffsetRoot_M
+  - first:
+      1: 100196
+    second: ninja_rig_0004:FKOffsetScapula_L
+  - first:
+      1: 100198
+    second: ninja_rig_0004:FKOffsetScapula_R
+  - first:
+      1: 100200
+    second: ninja_rig_0004:FKOffsetShoulder_L
+  - first:
+      1: 100202
+    second: ninja_rig_0004:FKOffsetShoulder_R
+  - first:
+      1: 100204
+    second: ninja_rig_0004:FKOffsetThumbFinger1_L
+  - first:
+      1: 100206
+    second: ninja_rig_0004:FKOffsetThumbFinger1_R
+  - first:
+      1: 100208
+    second: ninja_rig_0004:FKOffsetToes_L
+  - first:
+      1: 100210
+    second: ninja_rig_0004:FKOffsetToes_R
+  - first:
+      1: 100212
+    second: ninja_rig_0004:FKOffsetWrist_L
+  - first:
+      1: 100214
+    second: ninja_rig_0004:FKParentConstraintToChest_M
+  - first:
+      1: 100216
+    second: ninja_rig_0004:FKParentConstraintToRoot_M
+  - first:
+      1: 100218
+    second: ninja_rig_0004:FKParentConstraintToScapula_L
+  - first:
+      1: 100220
+    second: ninja_rig_0004:FKParentConstraintToScapula_R
+  - first:
+      1: 100222
+    second: ninja_rig_0004:FKParentConstraintToWrist_L
+  - first:
+      1: 100224
+    second: ninja_rig_0004:FKParentConstraintToWrist_R
+  - first:
+      1: 100226
+    second: ninja_rig_0004:FKShoulder_L
+  - first:
+      1: 100228
+    second: ninja_rig_0004:FKSystem
+  - first:
+      1: 100230
+    second: ninja_rig_0004:FKToes_L
+  - first:
+      1: 100232
+    second: ninja_rig_0004:FKToes_R
+  - first:
+      1: 100234
+    second: ninja_rig_0004:FKWrist_L
+  - first:
+      1: 100236
+    second: ninja_rig_0004:FKXAnkle_L
+  - first:
+      1: 100238
+    second: ninja_rig_0004:FKXAnkle_R
+  - first:
+      1: 100240
+    second: ninja_rig_0004:FKXElbow_L
+  - first:
+      1: 100242
+    second: ninja_rig_0004:FKXHip_L
+  - first:
+      1: 100244
+    second: ninja_rig_0004:FKXHip_R
+  - first:
+      1: 100246
+    second: ninja_rig_0004:FKXKnee_L
+  - first:
+      1: 100248
+    second: ninja_rig_0004:FKXKnee_R
+  - first:
+      1: 100250
+    second: ninja_rig_0004:FKXShoulder_L
+  - first:
+      1: 100252
+    second: ninja_rig_0004:FKXToes_L
+  - first:
+      1: 100254
+    second: ninja_rig_0004:FKXToes_R
+  - first:
+      1: 100256
+    second: ninja_rig_0004:FKXWrist_L
+  - first:
+      1: 100258
+    second: ninja_rig_0004:Geometry
+  - first:
+      1: 100260
+    second: ninja_rig_0004:GlobalHead_M
+  - first:
+      1: 100262
+    second: ninja_rig_0004:GlobalOffsetHead_M
+  - first:
+      1: 100264
+    second: ninja_rig_0004:GlobalSystem
+  - first:
+      1: 100266
+    second: ninja_rig_0004:Group
+  - first:
+      1: 100268
+    second: ninja_rig_0004:group1
+  - first:
+      1: 100270
+    second: ninja_rig_0004:Head
+  - first:
+      1: 100272
+    second: ninja_rig_0004:Head_M
+  - first:
+      1: 100274
+    second: ninja_rig_0004:HeadEnd
+  - first:
+      1: 100276
+    second: ninja_rig_0004:HeadEnd_M
+  - first:
+      1: 100278
+    second: ninja_rig_0004:Heel
+  - first:
+      1: 100280
+    second: ninja_rig_0004:Hip
+  - first:
+      1: 100282
+    second: ninja_rig_0004:Hip_L
+  - first:
+      1: 100284
+    second: ninja_rig_0004:Hip_R
+  - first:
+      1: 100286
+    second: ninja_rig_0004:IKArm_R
+  - first:
+      1: 100288
+    second: ninja_rig_0004:IKArmHandle_R
+  - first:
+      1: 100290
+    second: ninja_rig_0004:IKCurve
+  - first:
+      1: 100292
+    second: ninja_rig_0004:IKdistanceArm_L
+  - first:
+      1: 100294
+    second: ninja_rig_0004:IKdistanceArm_R
+  - first:
+      1: 100296
+    second: ninja_rig_0004:IKdistanceLeg_L
+  - first:
+      1: 100298
+    second: ninja_rig_0004:IKdistanceLeg_R
+  - first:
+      1: 100300
+    second: ninja_rig_0004:IKExtraArm_L
+  - first:
+      1: 100302
+    second: ninja_rig_0004:IKExtraArm_R
+  - first:
+      1: 100304
+    second: ninja_rig_0004:IKExtraLeg_L
+  - first:
+      1: 100306
+    second: ninja_rig_0004:IKExtraLeg_R
+  - first:
+      1: 100308
+    second: ninja_rig_0004:IKExtraSpine1_M
+  - first:
+      1: 100310
+    second: ninja_rig_0004:IKExtraSpine2_M
+  - first:
+      1: 100312
+    second: ninja_rig_0004:IKfake0Spine_M
+  - first:
+      1: 100314
+    second: ninja_rig_0004:IKfake1Spine_M
+  - first:
+      1: 100316
+    second: ninja_rig_0004:IKFake1UpLocSpine_M
+  - first:
+      1: 100318
+    second: ninja_rig_0004:IKfake2Spine_M
+  - first:
+      1: 100320
+    second: ninja_rig_0004:IKfake3Spine_M
+  - first:
+      1: 100322
+    second: ninja_rig_0004:IKFKAlignedArm_R
+  - first:
+      1: 100324
+    second: ninja_rig_0004:IKFKAlignedOffsetArm_R
+  - first:
+      1: 100326
+    second: ninja_rig_0004:IKFollow
+  - first:
+      1: 100328
+    second: ninja_rig_0004:IKHandle
+  - first:
+      1: 100330
+    second: ninja_rig_0004:IKJoints
+  - first:
+      1: 100332
+    second: ninja_rig_0004:IKMessure
+  - first:
+      1: 100334
+    second: ninja_rig_0004:IKmessureConstrainToArm_R
+  - first:
+      1: 100336
+    second: ninja_rig_0004:IKMessureFromHip_L
+  - first:
+      1: 100338
+    second: ninja_rig_0004:IKMessureFromHip_R
+  - first:
+      1: 100340
+    second: ninja_rig_0004:IKMessureFromShoulder_L
+  - first:
+      1: 100342
+    second: ninja_rig_0004:IKMessureFromShoulder_R
+  - first:
+      1: 100344
+    second: ninja_rig_0004:IKmessureLoc1Arm_L
+  - first:
+      1: 100346
+    second: ninja_rig_0004:IKmessureLoc1Arm_R
+  - first:
+      1: 100348
+    second: ninja_rig_0004:IKmessureLoc1Leg_L
+  - first:
+      1: 100350
+    second: ninja_rig_0004:IKmessureLoc1Leg_R
+  - first:
+      1: 100352
+    second: ninja_rig_0004:IKmessureLoc2Arm_L
+  - first:
+      1: 100354
+    second: ninja_rig_0004:IKmessureLoc2Arm_R
+  - first:
+      1: 100356
+    second: ninja_rig_0004:IKmessureLoc2Leg_L
+  - first:
+      1: 100358
+    second: ninja_rig_0004:IKmessureLoc2Leg_R
+  - first:
+      1: 100360
+    second: ninja_rig_0004:IKOffsetArm_L
+  - first:
+      1: 100362
+    second: ninja_rig_0004:IKOffsetArm_LFollow
+  - first:
+      1: 100364
+    second: ninja_rig_0004:IKOffsetArm_LFollowNoScale
+  - first:
+      1: 100366
+    second: ninja_rig_0004:IKOffsetArm_LStatic
+  - first:
+      1: 100368
+    second: ninja_rig_0004:IKOffsetArm_R
+  - first:
+      1: 100370
+    second: ninja_rig_0004:IKOffsetArm_RFollow
+  - first:
+      1: 100372
+    second: ninja_rig_0004:IKOffsetArm_RFollowNoScale
+  - first:
+      1: 100374
+    second: ninja_rig_0004:IKOffsetArm_RStatic
+  - first:
+      1: 100376
+    second: ninja_rig_0004:IKOffsetLeg_L
+  - first:
+      1: 100378
+    second: ninja_rig_0004:IKOffsetLeg_R
+  - first:
+      1: 100380
+    second: ninja_rig_0004:IKOffsetSpine1_M
+  - first:
+      1: 100382
+    second: ninja_rig_0004:IKOffsetSpine2_M
+  - first:
+      1: 100384
+    second: ninja_rig_0004:IKParentConstraintHip_L
+  - first:
+      1: 100386
+    second: ninja_rig_0004:IKParentConstraintHip_R
+  - first:
+      1: 100388
+    second: ninja_rig_0004:IKParentConstraintRoot_M
+  - first:
+      1: 100390
+    second: ninja_rig_0004:IKParentConstraintShoulder_L
+  - first:
+      1: 100392
+    second: ninja_rig_0004:IKParentConstraintShoulder_R
+  - first:
+      1: 100394
+    second: ninja_rig_0004:IKRootConstraint
+  - first:
+      1: 100396
+    second: ninja_rig_0004:IKScalerChest_M
+  - first:
+      1: 100398
+    second: ninja_rig_0004:IKScalerRoot_M
+  - first:
+      1: 100400
+    second: ninja_rig_0004:IKScalerSpine1_M
+  - first:
+      1: 100402
+    second: ninja_rig_0004:IKSpChest_M
+  - first:
+      1: 100404
+    second: ninja_rig_0004:IKSpChestFollowOffset_M
+  - first:
+      1: 100406
+    second: ninja_rig_0004:IKSpine0AlignTo_M
+  - first:
+      1: 100408
+    second: ninja_rig_0004:IKSpine1_M
+  - first:
+      1: 100410
+    second: ninja_rig_0004:IKSpine2_M
+  - first:
+      1: 100412
+    second: ninja_rig_0004:IKSpine2AlignTo_M
+  - first:
+      1: 100414
+    second: ninja_rig_0004:IKSpine2AlignUnIKTwistTo_M
+  - first:
+      1: 100416
+    second: ninja_rig_0004:IKSpine2AlignUnIKTwistToOffset_M
+  - first:
+      1: 100418
+    second: ninja_rig_0004:IKSpineCurve_M
+  - first:
+      1: 100420
+    second: ninja_rig_0004:IKSpineHandle_M
+  - first:
+      1: 100422
+    second: ninja_rig_0004:IKSpineLocator0_M
+  - first:
+      1: 100424
+    second: ninja_rig_0004:IKSpineLocator1_M
+  - first:
+      1: 100426
+    second: ninja_rig_0004:IKSpineLocator2_M
+  - first:
+      1: 100428
+    second: ninja_rig_0004:IKSpineLocator3_M
+  - first:
+      1: 100430
+    second: ninja_rig_0004:IKSpRoot_M
+  - first:
+      1: 100432
+    second: ninja_rig_0004:IKSpRootFollowOffset_M
+  - first:
+      1: 100434
+    second: ninja_rig_0004:IKSpSpine1_M
+  - first:
+      1: 100436
+    second: ninja_rig_0004:IKSpSpine1FollowOffset_M
+  - first:
+      1: 100438
+    second: ninja_rig_0004:IKSpSpineOffset_M
+  - first:
+      1: 100440
+    second: ninja_rig_0004:IKStatic
+  - first:
+      1: 100442
+    second: ninja_rig_0004:IKStiffOrientSpine1_M
+  - first:
+      1: 100444
+    second: ninja_rig_0004:IKStiffOrientSpine2_M
+  - first:
+      1: 100446
+    second: ninja_rig_0004:IKSystem
+  - first:
+      1: 100448
+    second: ninja_rig_0004:IKX2Ankle_L
+  - first:
+      1: 100450
+    second: ninja_rig_0004:IKX2Ankle_R
+  - first:
+      1: 100452
+    second: ninja_rig_0004:IKX2Chest_M
+  - first:
+      1: 100454
+    second: ninja_rig_0004:IKX2Elbow_L
+  - first:
+      1: 100456
+    second: ninja_rig_0004:IKX2Elbow_R
+  - first:
+      1: 100458
+    second: ninja_rig_0004:IKX2Hip_L
+  - first:
+      1: 100460
+    second: ninja_rig_0004:IKX2Hip_R
+  - first:
+      1: 100462
+    second: ninja_rig_0004:IKX2Knee_L
+  - first:
+      1: 100464
+    second: ninja_rig_0004:IKX2Knee_R
+  - first:
+      1: 100466
+    second: ninja_rig_0004:IKX2Root_M
+  - first:
+      1: 100468
+    second: ninja_rig_0004:IKX2Shoulder_L
+  - first:
+      1: 100470
+    second: ninja_rig_0004:IKX2Shoulder_R
+  - first:
+      1: 100472
+    second: ninja_rig_0004:IKX2Spine1_M
+  - first:
+      1: 100474
+    second: ninja_rig_0004:IKX2Toes_L
+  - first:
+      1: 100476
+    second: ninja_rig_0004:IKX2Toes_R
+  - first:
+      1: 100478
+    second: ninja_rig_0004:IKX2ToesEnd_L
+  - first:
+      1: 100480
+    second: ninja_rig_0004:IKX2ToesEnd_R
+  - first:
+      1: 100482
+    second: ninja_rig_0004:IKX2Wrist_L
+  - first:
+      1: 100484
+    second: ninja_rig_0004:IKX2Wrist_R
+  - first:
+      1: 100486
+    second: ninja_rig_0004:IKXAnkle_L
+  - first:
+      1: 100488
+    second: ninja_rig_0004:IKXAnkle_R
+  - first:
+      1: 100490
+    second: ninja_rig_0004:IKXChest_M
+  - first:
+      1: 100492
+    second: ninja_rig_0004:IKXElbow_L
+  - first:
+      1: 100494
+    second: ninja_rig_0004:IKXElbow_R
+  - first:
+      1: 100496
+    second: ninja_rig_0004:IKXHip_L
+  - first:
+      1: 100498
+    second: ninja_rig_0004:IKXHip_R
+  - first:
+      1: 100500
+    second: ninja_rig_0004:IKXKnee_L
+  - first:
+      1: 100502
+    second: ninja_rig_0004:IKXKnee_R
+  - first:
+      1: 100504
+    second: ninja_rig_0004:IKXOffsetHip_L
+  - first:
+      1: 100506
+    second: ninja_rig_0004:IKXOffsetHip_R
+  - first:
+      1: 100508
+    second: ninja_rig_0004:IKXOffsetRoot_M
+  - first:
+      1: 100510
+    second: ninja_rig_0004:IKXOffsetShoulder_L
+  - first:
+      1: 100512
+    second: ninja_rig_0004:IKXOffsetShoulder_R
+  - first:
+      1: 100514
+    second: ninja_rig_0004:IKXRoot_M
+  - first:
+      1: 100516
+    second: ninja_rig_0004:IKXShoulder_L
+  - first:
+      1: 100518
+    second: ninja_rig_0004:IKXShoulder_R
+  - first:
+      1: 100520
+    second: ninja_rig_0004:IKXSpine1_M
+  - first:
+      1: 100522
+    second: ninja_rig_0004:IKXToes_L
+  - first:
+      1: 100524
+    second: ninja_rig_0004:IKXToes_R
+  - first:
+      1: 100526
+    second: ninja_rig_0004:IKXToesEnd_L
+  - first:
+      1: 100528
+    second: ninja_rig_0004:IKXToesEnd_R
+  - first:
+      1: 100530
+    second: ninja_rig_0004:IKXWrist_L
+  - first:
+      1: 100532
+    second: ninja_rig_0004:IKXWrist_R
+  - first:
+      1: 100534
+    second: ninja_rig_0004:IndexFinger1
+  - first:
+      1: 100536
+    second: ninja_rig_0004:IndexFinger1_L
+  - first:
+      1: 100538
+    second: ninja_rig_0004:IndexFinger1_R
+  - first:
+      1: 100540
+    second: ninja_rig_0004:IndexFinger2
+  - first:
+      1: 100542
+    second: ninja_rig_0004:IndexFinger2_L
+  - first:
+      1: 100544
+    second: ninja_rig_0004:IndexFinger2_R
+  - first:
+      1: 100546
+    second: ninja_rig_0004:IndexFinger3
+  - first:
+      1: 100548
+    second: ninja_rig_0004:IndexFinger3_L
+  - first:
+      1: 100550
+    second: ninja_rig_0004:IndexFinger3_R
+  - first:
+      1: 100552
+    second: ninja_rig_0004:IndexFinger4
+  - first:
+      1: 100554
+    second: ninja_rig_0004:IndexFinger4_L
+  - first:
+      1: 100556
+    second: ninja_rig_0004:IndexFinger4_R
+  - first:
+      1: 100558
+    second: ninja_rig_0004:Jaw
+  - first:
+      1: 100560
+    second: ninja_rig_0004:Jaw_M
+  - first:
+      1: 100562
+    second: ninja_rig_0004:JawEnd
+  - first:
+      1: 100564
+    second: ninja_rig_0004:JawEnd_M
+  - first:
+      1: 100566
+    second: ninja_rig_0004:jnt_blade_01
+  - first:
+      1: 100568
+    second: ninja_rig_0004:jnt_blade_02
+  - first:
+      1: 100570
+    second: ninja_rig_0004:jnt_blade_03
+  - first:
+      1: 100572
+    second: ninja_rig_0004:jnt_blade_04
+  - first:
+      1: 100574
+    second: ninja_rig_0004:jnt_blade_05
+  - first:
+      1: 100576
+    second: ninja_rig_0004:jnt_blade_06
+  - first:
+      1: 100578
+    second: ninja_rig_0004:jnt_eye
+  - first:
+      1: 100580
+    second: ninja_rig_0004:jnt_eye1
+  - first:
+      1: 100582
+    second: ninja_rig_0004:jnt_pet
+  - first:
+      1: 100584
+    second: ninja_rig_0004:jnt_pet1
+  - first:
+      1: 100586
+    second: ninja_rig_0004:jnt_pet1 1
+  - first:
+      1: 100588
+    second: ninja_rig_0004:jnt_pet2
+  - first:
+      1: 100590
+    second: ninja_rig_0004:jnt_pet2 1
+  - first:
+      1: 100592
+    second: ninja_rig_0004:jnt_pet3
+  - first:
+      1: 100594
+    second: ninja_rig_0004:Knee
+  - first:
+      1: 100596
+    second: ninja_rig_0004:Knee_L
+  - first:
+      1: 100598
+    second: ninja_rig_0004:Knee_R
+  - first:
+      1: 100600
+    second: ninja_rig_0004:LegLockConstrained
+  - first:
+      1: 100602
+    second: ninja_rig_0004:Main
+  - first:
+      1: 100604
+    second: ninja_rig_0004:MiddleFinger1
+  - first:
+      1: 100606
+    second: ninja_rig_0004:MiddleFinger1_L
+  - first:
+      1: 100608
+    second: ninja_rig_0004:MiddleFinger1_R
+  - first:
+      1: 100610
+    second: ninja_rig_0004:MiddleFinger2
+  - first:
+      1: 100612
+    second: ninja_rig_0004:MiddleFinger2_L
+  - first:
+      1: 100614
+    second: ninja_rig_0004:MiddleFinger2_R
+  - first:
+      1: 100616
+    second: ninja_rig_0004:MiddleFinger3
+  - first:
+      1: 100618
+    second: ninja_rig_0004:MiddleFinger3_L
+  - first:
+      1: 100620
+    second: ninja_rig_0004:MiddleFinger3_R
+  - first:
+      1: 100622
+    second: ninja_rig_0004:MiddleFinger4
+  - first:
+      1: 100624
+    second: ninja_rig_0004:MiddleFinger4_L
+  - first:
+      1: 100626
+    second: ninja_rig_0004:MiddleFinger4_R
+  - first:
+      1: 100628
+    second: ninja_rig_0004:MotionSystem
+  - first:
+      1: 100630
+    second: ninja_rig_0004:Neck
+  - first:
+      1: 100632
+    second: ninja_rig_0004:Neck_M
+  - first:
+      1: 100634
+    second: ninja_rig_0004:Ninja:Cloth2:Group2
+  - first:
+      1: 100636
+    second: ninja_rig_0004:Ninja:Eyes:polySurface6
+  - first:
+      1: 100638
+    second: ninja_rig_0004:Ninja:Hand:fingers
+  - first:
+      1: 100640
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend
+  - first:
+      1: 100642
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend1
+  - first:
+      1: 100644
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend1 1
+  - first:
+      1: 100646
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend2
+  - first:
+      1: 100648
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend2 1
+  - first:
+      1: 100650
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend3
+  - first:
+      1: 100652
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend3 1
+  - first:
+      1: 100654
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend4
+  - first:
+      1: 100656
+    second: ninja_rig_0004:ninja_body
+  - first:
+      1: 100658
+    second: ninja_rig_0004:pCube1
+  - first:
+      1: 100660
+    second: ninja_rig_0004:PinkyFinger1
+  - first:
+      1: 100662
+    second: ninja_rig_0004:PinkyFinger1_L
+  - first:
+      1: 100664
+    second: ninja_rig_0004:PinkyFinger1_R
+  - first:
+      1: 100666
+    second: ninja_rig_0004:PinkyFinger2
+  - first:
+      1: 100668
+    second: ninja_rig_0004:PinkyFinger2_L
+  - first:
+      1: 100670
+    second: ninja_rig_0004:PinkyFinger2_R
+  - first:
+      1: 100672
+    second: ninja_rig_0004:PinkyFinger3
+  - first:
+      1: 100674
+    second: ninja_rig_0004:PinkyFinger3_L
+  - first:
+      1: 100676
+    second: ninja_rig_0004:PinkyFinger3_R
+  - first:
+      1: 100678
+    second: ninja_rig_0004:PinkyFinger4
+  - first:
+      1: 100680
+    second: ninja_rig_0004:PinkyFinger4_L
+  - first:
+      1: 100682
+    second: ninja_rig_0004:PinkyFinger4_R
+  - first:
+      1: 100684
+    second: ninja_rig_0004:PoleAimLeg_L
+  - first:
+      1: 100686
+    second: ninja_rig_0004:PoleAimLeg_R
+  - first:
+      1: 100688
+    second: ninja_rig_0004:PoleAnnotationArm_L
+  - first:
+      1: 100690
+    second: ninja_rig_0004:PoleAnnotationArm_R
+  - first:
+      1: 100692
+    second: ninja_rig_0004:PoleAnnotationLeg_L
+  - first:
+      1: 100694
+    second: ninja_rig_0004:PoleAnnotationLeg_R
+  - first:
+      1: 100696
+    second: ninja_rig_0004:PoleArm_R
+  - first:
+      1: 100698
+    second: ninja_rig_0004:PoleExtraArm_L
+  - first:
+      1: 100700
+    second: ninja_rig_0004:PoleExtraArm_R
+  - first:
+      1: 100702
+    second: ninja_rig_0004:PoleExtraLeg_L
+  - first:
+      1: 100704
+    second: ninja_rig_0004:PoleExtraLeg_R
+  - first:
+      1: 100706
+    second: ninja_rig_0004:PoleOffsetArm_L
+  - first:
+      1: 100708
+    second: ninja_rig_0004:PoleOffsetArm_LStatic
+  - first:
+      1: 100710
+    second: ninja_rig_0004:PoleOffsetArm_R
+  - first:
+      1: 100712
+    second: ninja_rig_0004:PoleOffsetArm_RFollow
+  - first:
+      1: 100714
+    second: ninja_rig_0004:PoleOffsetArm_RFollowNoScale
+  - first:
+      1: 100716
+    second: ninja_rig_0004:PoleOffsetArm_RStatic
+  - first:
+      1: 100718
+    second: ninja_rig_0004:PoleOffsetLeg_L
+  - first:
+      1: 100720
+    second: ninja_rig_0004:PoleOffsetLeg_LFollow
+  - first:
+      1: 100722
+    second: ninja_rig_0004:PoleOffsetLeg_LFollowNoScale
+  - first:
+      1: 100724
+    second: ninja_rig_0004:PoleOffsetLeg_LStatic
+  - first:
+      1: 100726
+    second: ninja_rig_0004:PoleOffsetLeg_R
+  - first:
+      1: 100728
+    second: ninja_rig_0004:PoleOffsetLeg_RFollow
+  - first:
+      1: 100730
+    second: ninja_rig_0004:PoleOffsetLeg_RFollowNoScale
+  - first:
+      1: 100732
+    second: ninja_rig_0004:PoleOffsetLeg_RStatic
+  - first:
+      1: 100734
+    second: ninja_rig_0004:pSphere1
+  - first:
+      1: 100736
+    second: ninja_rig_0004:pSphere2
+  - first:
+      1: 100738
+    second: ninja_rig_0004:RingFinger1
+  - first:
+      1: 100740
+    second: ninja_rig_0004:RingFinger2
+  - first:
+      1: 100742
+    second: ninja_rig_0004:RingFinger3
+  - first:
+      1: 100744
+    second: ninja_rig_0004:RingFinger4
+  - first:
+      1: 100746
+    second: ninja_rig_0004:Root
+  - first:
+      1: 100748
+    second: ninja_rig_0004:Root_M
+  - first:
+      1: 100750
+    second: ninja_rig_0004:RootExtraX_M
+  - first:
+      1: 100752
+    second: ninja_rig_0004:RootOffsetX_M
+  - first:
+      1: 100754
+    second: ninja_rig_0004:RootSystem
+  - first:
+      1: 100756
+    second: ninja_rig_0004:Scapula
+  - first:
+      1: 100758
+    second: ninja_rig_0004:Scapula_L
+  - first:
+      1: 100760
+    second: ninja_rig_0004:Scapula_R
+  - first:
+      1: 100762
+    second: ninja_rig_0004:SDK1FKIndexFinger1_L
+  - first:
+      1: 100764
+    second: ninja_rig_0004:SDK1FKIndexFinger1_R
+  - first:
+      1: 100766
+    second: ninja_rig_0004:SDK1FKMiddleFinger1_L
+  - first:
+      1: 100768
+    second: ninja_rig_0004:SDK1FKMiddleFinger1_R
+  - first:
+      1: 100770
+    second: ninja_rig_0004:SDK1FKPinkyFinger1_L
+  - first:
+      1: 100772
+    second: ninja_rig_0004:SDK1FKPinkyFinger1_R
+  - first:
+      1: 100774
+    second: ninja_rig_0004:SDK1FKRingFinger1_L
+  - first:
+      1: 100776
+    second: ninja_rig_0004:SDK1FKRingFinger1_R
+  - first:
+      1: 100778
+    second: ninja_rig_0004:SDK2FKIndexFinger1_L
+  - first:
+      1: 100780
+    second: ninja_rig_0004:SDK2FKIndexFinger1_R
+  - first:
+      1: 100782
+    second: ninja_rig_0004:SDK2FKPinkyFinger1_L
+  - first:
+      1: 100784
+    second: ninja_rig_0004:SDK2FKPinkyFinger1_R
+  - first:
+      1: 100786
+    second: ninja_rig_0004:SDK2FKRingFinger1_L
+  - first:
+      1: 100788
+    second: ninja_rig_0004:SDK2FKRingFinger1_R
+  - first:
+      1: 100790
+    second: ninja_rig_0004:Shoulder
+  - first:
+      1: 100792
+    second: ninja_rig_0004:Shoulder_L
+  - first:
+      1: 100794
+    second: ninja_rig_0004:Shoulder_R
+  - first:
+      1: 100796
+    second: ninja_rig_0004:ShoulderPart1_L
+  - first:
+      1: 100798
+    second: ninja_rig_0004:ShoulderPart1_R
+  - first:
+      1: 100800
+    second: ninja_rig_0004:ShoulderPart2_L
+  - first:
+      1: 100802
+    second: ninja_rig_0004:ShoulderPart2_R
+  - first:
+      1: 100804
+    second: ninja_rig_0004:Spine1
+  - first:
+      1: 100806
+    second: ninja_rig_0004:Spine1_M
+  - first:
+      1: 100808
+    second: ninja_rig_0004:ThumbFinger1
+  - first:
+      1: 100810
+    second: ninja_rig_0004:ThumbFinger1_L
+  - first:
+      1: 100812
+    second: ninja_rig_0004:ThumbFinger1_R
+  - first:
+      1: 100814
+    second: ninja_rig_0004:ThumbFinger2
+  - first:
+      1: 100816
+    second: ninja_rig_0004:ThumbFinger2_L
+  - first:
+      1: 100818
+    second: ninja_rig_0004:ThumbFinger2_R
+  - first:
+      1: 100820
+    second: ninja_rig_0004:ThumbFinger3
+  - first:
+      1: 100822
+    second: ninja_rig_0004:ThumbFinger3_L
+  - first:
+      1: 100824
+    second: ninja_rig_0004:ThumbFinger3_R
+  - first:
+      1: 100826
+    second: ninja_rig_0004:ThumbFinger4
+  - first:
+      1: 100828
+    second: ninja_rig_0004:ThumbFinger4_L
+  - first:
+      1: 100830
+    second: ninja_rig_0004:ThumbFinger4_R
+  - first:
+      1: 100832
+    second: ninja_rig_0004:Toes
+  - first:
+      1: 100834
+    second: ninja_rig_0004:Toes_L
+  - first:
+      1: 100836
+    second: ninja_rig_0004:Toes_R
+  - first:
+      1: 100838
+    second: ninja_rig_0004:ToesEnd
+  - first:
+      1: 100840
+    second: ninja_rig_0004:ToesEnd_L
+  - first:
+      1: 100842
+    second: ninja_rig_0004:ToesEnd_R
+  - first:
+      1: 100844
+    second: ninja_rig_0004:TwistBalancerChest_M
+  - first:
+      1: 100846
+    second: ninja_rig_0004:TwistBalancerElbow_L
+  - first:
+      1: 100848
+    second: ninja_rig_0004:TwistBalancerElbow_R
+  - first:
+      1: 100850
+    second: ninja_rig_0004:TwistBalancerShoulder_L
+  - first:
+      1: 100852
+    second: ninja_rig_0004:TwistBalancerShoulder_R
+  - first:
+      1: 100854
+    second: ninja_rig_0004:TwisterElbow0_L
+  - first:
+      1: 100856
+    second: ninja_rig_0004:TwisterElbow0_R
+  - first:
+      1: 100858
+    second: ninja_rig_0004:TwisterElbow1_L
+  - first:
+      1: 100860
+    second: ninja_rig_0004:TwisterElbow1_R
+  - first:
+      1: 100862
+    second: ninja_rig_0004:TwisterElbow2_L
+  - first:
+      1: 100864
+    second: ninja_rig_0004:TwisterElbow2_R
+  - first:
+      1: 100866
+    second: ninja_rig_0004:TwisterShoulder0_L
+  - first:
+      1: 100868
+    second: ninja_rig_0004:TwisterShoulder0_R
+  - first:
+      1: 100870
+    second: ninja_rig_0004:TwisterShoulder1_L
+  - first:
+      1: 100872
+    second: ninja_rig_0004:TwisterShoulder1_R
+  - first:
+      1: 100874
+    second: ninja_rig_0004:TwisterShoulder2_L
+  - first:
+      1: 100876
+    second: ninja_rig_0004:TwisterShoulder2_R
+  - first:
+      1: 100878
+    second: ninja_rig_0004:TwistFollowChest_M
+  - first:
+      1: 100880
+    second: ninja_rig_0004:TwistFollowElbow_L
+  - first:
+      1: 100882
+    second: ninja_rig_0004:TwistFollowElbow_R
+  - first:
+      1: 100884
+    second: ninja_rig_0004:TwistFollowOffsetChest_M
+  - first:
+      1: 100886
+    second: ninja_rig_0004:TwistFollowOffsetElbow_L
+  - first:
+      1: 100888
+    second: ninja_rig_0004:TwistFollowOffsetElbow_R
+  - first:
+      1: 100890
+    second: ninja_rig_0004:TwistFollowOffsetShoulder_L
+  - first:
+      1: 100892
+    second: ninja_rig_0004:TwistFollowOffsetShoulder_R
+  - first:
+      1: 100894
+    second: ninja_rig_0004:TwistFollowParentChest_M
+  - first:
+      1: 100896
+    second: ninja_rig_0004:TwistFollowParentElbow_L
+  - first:
+      1: 100898
+    second: ninja_rig_0004:TwistFollowParentElbow_R
+  - first:
+      1: 100900
+    second: ninja_rig_0004:TwistFollowParentOffsetChest_M
+  - first:
+      1: 100902
+    second: ninja_rig_0004:TwistFollowParentOffsetElbow_L
+  - first:
+      1: 100904
+    second: ninja_rig_0004:TwistFollowParentOffsetElbow_R
+  - first:
+      1: 100906
+    second: ninja_rig_0004:TwistFollowParentOffsetShoulder_L
+  - first:
+      1: 100908
+    second: ninja_rig_0004:TwistFollowParentOffsetShoulder_R
+  - first:
+      1: 100910
+    second: ninja_rig_0004:TwistFollowParentShoulder_L
+  - first:
+      1: 100912
+    second: ninja_rig_0004:TwistFollowParentShoulder_R
+  - first:
+      1: 100914
+    second: ninja_rig_0004:TwistFollowShoulder_L
+  - first:
+      1: 100916
+    second: ninja_rig_0004:TwistFollowShoulder_R
+  - first:
+      1: 100918
+    second: ninja_rig_0004:TwistSystem
+  - first:
+      1: 100920
+    second: ninja_rig_0004:UnTwistChest_M
+  - first:
+      1: 100922
+    second: ninja_rig_0004:UnTwistElbow_L
+  - first:
+      1: 100924
+    second: ninja_rig_0004:UnTwistElbow_R
+  - first:
+      1: 100926
+    second: ninja_rig_0004:UnTwistEndChest_M
+  - first:
+      1: 100928
+    second: ninja_rig_0004:UnTwistEndElbow_L
+  - first:
+      1: 100930
+    second: ninja_rig_0004:UnTwistEndElbow_R
+  - first:
+      1: 100932
+    second: ninja_rig_0004:UnTwistEndShoulder_L
+  - first:
+      1: 100934
+    second: ninja_rig_0004:UnTwistEndShoulder_R
+  - first:
+      1: 100936
+    second: ninja_rig_0004:UnTwistIKChest_M
+  - first:
+      1: 100938
+    second: ninja_rig_0004:UnTwistIKElbow_L
+  - first:
+      1: 100940
+    second: ninja_rig_0004:UnTwistIKElbow_R
+  - first:
+      1: 100942
+    second: ninja_rig_0004:UnTwistIKShoulder_L
+  - first:
+      1: 100944
+    second: ninja_rig_0004:UnTwistIKShoulder_R
+  - first:
+      1: 100946
+    second: ninja_rig_0004:UnTwistShoulder_L
+  - first:
+      1: 100948
+    second: ninja_rig_0004:UnTwistShoulder_R
+  - first:
+      1: 100950
+    second: ninja_rig_0004:Wrist
+  - first:
+      1: 100952
+    second: ninja_rig_0004:Wrist_L
+  - first:
+      1: 100954
+    second: ninja_rig_0004:Wrist_R
+  - first:
+      1: 100956
+    second: tweenMachineData
+  - first:
+      4: 400000
+    second: ninja:skinCluster1Set1
+  - first:
+      4: 400002
+    second: ninja:skinCluster2Set
+  - first:
+      4: 400004
+    second: ninja:skinCluster2Set1
+  - first:
+      4: 400006
+    second: ninja:skinCluster3Set
+  - first:
+      4: 400008
+    second: ninja:skinCluster4Set
+  - first:
+      4: 400010
+    second: ninja:skinCluster5Set
+  - first:
+      4: 400012
+    second: ninja:skinCluster6Set
+  - first:
+      4: 400014
+    second: //RootNode
+  - first:
+      4: 400016
+    second: ninja_rig_0004:AimEye
+  - first:
+      4: 400018
+    second: ninja_rig_0004:AimFollowEye
+  - first:
+      4: 400020
+    second: ninja_rig_0004:AimFollowOffEye
+  - first:
+      4: 400022
+    second: ninja_rig_0004:AimFollowOnEye
+  - first:
+      4: 400024
+    second: ninja_rig_0004:AimOffsetEye
+  - first:
+      4: 400026
+    second: ninja_rig_0004:AimSystem
+  - first:
+      4: 400028
+    second: ninja_rig_0004:AlignIKToAnkle_L
+  - first:
+      4: 400030
+    second: ninja_rig_0004:AlignIKToAnkle_R
+  - first:
+      4: 400032
+    second: ninja_rig_0004:AlignIKToWrist_L
+  - first:
+      4: 400034
+    second: ninja_rig_0004:Ankle
+  - first:
+      4: 400036
+    second: ninja_rig_0004:Ankle_L
+  - first:
+      4: 400038
+    second: ninja_rig_0004:Ankle_R
+  - first:
+      4: 400040
+    second: ninja_rig_0004:BendSystem
+  - first:
+      4: 400042
+    second: ninja_rig_0004:Chest
+  - first:
+      4: 400044
+    second: ninja_rig_0004:Chest_M
+  - first:
+      4: 400046
+    second: ninja_rig_0004:Cloth2:Group2
+  - first:
+      4: 400048
+    second: ninja_rig_0004:ConstraintSystem
+  - first:
+      4: 400050
+    second: ninja_rig_0004:DeformationSystem
+  - first:
+      4: 400052
+    second: ninja_rig_0004:DrivingSystem
+  - first:
+      4: 400054
+    second: ninja_rig_0004:DynamicSystem
+  - first:
+      4: 400056
+    second: ninja_rig_0004:Elbow
+  - first:
+      4: 400058
+    second: ninja_rig_0004:Elbow_L
+  - first:
+      4: 400060
+    second: ninja_rig_0004:Elbow_R
+  - first:
+      4: 400062
+    second: ninja_rig_0004:Extract2:Group13289
+  - first:
+      4: 400064
+    second: ninja_rig_0004:Eye
+  - first:
+      4: 400066
+    second: ninja_rig_0004:Eye_L
+  - first:
+      4: 400068
+    second: ninja_rig_0004:Eye_R
+  - first:
+      4: 400070
+    second: ninja_rig_0004:EyeEnd
+  - first:
+      4: 400072
+    second: ninja_rig_0004:EyeEnd_L
+  - first:
+      4: 400074
+    second: ninja_rig_0004:EyeEnd_R
+  - first:
+      4: 400076
+    second: ninja_rig_0004:Face:Group3
+  - first:
+      4: 400078
+    second: ninja_rig_0004:FitSkeleton
+  - first:
+      4: 400080
+    second: ninja_rig_0004:FKAnkle_L
+  - first:
+      4: 400082
+    second: ninja_rig_0004:FKAnkle_R
+  - first:
+      4: 400084
+    second: ninja_rig_0004:FKElbow_L
+  - first:
+      4: 400086
+    second: ninja_rig_0004:FKExtraAnkle_L
+  - first:
+      4: 400088
+    second: ninja_rig_0004:FKExtraAnkle_R
+  - first:
+      4: 400090
+    second: ninja_rig_0004:FKExtraElbow_L
+  - first:
+      4: 400092
+    second: ninja_rig_0004:FKExtraHip_L
+  - first:
+      4: 400094
+    second: ninja_rig_0004:FKExtraHip_R
+  - first:
+      4: 400096
+    second: ninja_rig_0004:FKExtraIndexFinger1_L
+  - first:
+      4: 400098
+    second: ninja_rig_0004:FKExtraIndexFinger1_R
+  - first:
+      4: 400100
+    second: ninja_rig_0004:FKExtraKnee_L
+  - first:
+      4: 400102
+    second: ninja_rig_0004:FKExtraKnee_R
+  - first:
+      4: 400104
+    second: ninja_rig_0004:FKExtraMiddleFinger1_L
+  - first:
+      4: 400106
+    second: ninja_rig_0004:FKExtraMiddleFinger1_R
+  - first:
+      4: 400108
+    second: ninja_rig_0004:FKExtraNeck_M
+  - first:
+      4: 400110
+    second: ninja_rig_0004:FKExtraPinkyFinger1_L
+  - first:
+      4: 400112
+    second: ninja_rig_0004:FKExtraPinkyFinger1_R
+  - first:
+      4: 400114
+    second: ninja_rig_0004:FKExtraRingFinger1_L
+  - first:
+      4: 400116
+    second: ninja_rig_0004:FKExtraRingFinger1_R
+  - first:
+      4: 400118
+    second: ninja_rig_0004:FKExtraRoot_M
+  - first:
+      4: 400120
+    second: ninja_rig_0004:FKExtraScapula_L
+  - first:
+      4: 400122
+    second: ninja_rig_0004:FKExtraScapula_R
+  - first:
+      4: 400124
+    second: ninja_rig_0004:FKExtraShoulder_L
+  - first:
+      4: 400126
+    second: ninja_rig_0004:FKExtraShoulder_R
+  - first:
+      4: 400128
+    second: ninja_rig_0004:FKExtraThumbFinger1_L
+  - first:
+      4: 400130
+    second: ninja_rig_0004:FKExtraThumbFinger1_R
+  - first:
+      4: 400132
+    second: ninja_rig_0004:FKExtraToes_L
+  - first:
+      4: 400134
+    second: ninja_rig_0004:FKExtraToes_R
+  - first:
+      4: 400136
+    second: ninja_rig_0004:FKExtraWrist_L
+  - first:
+      4: 400138
+    second: ninja_rig_0004:FKHip_L
+  - first:
+      4: 400140
+    second: ninja_rig_0004:FKHip_R
+  - first:
+      4: 400142
+    second: ninja_rig_0004:FKIKMixElbow_L
+  - first:
+      4: 400144
+    second: ninja_rig_0004:FKIKMixElbow_R
+  - first:
+      4: 400146
+    second: ninja_rig_0004:FKIKParentConstraintArm_L
+  - first:
+      4: 400148
+    second: ninja_rig_0004:FKIKParentConstraintArm_R
+  - first:
+      4: 400150
+    second: ninja_rig_0004:FKIKParentConstraintLeg_L
+  - first:
+      4: 400152
+    second: ninja_rig_0004:FKIKParentConstraintLeg_R
+  - first:
+      4: 400154
+    second: ninja_rig_0004:FKIKParentConstraintSpine_M
+  - first:
+      4: 400156
+    second: ninja_rig_0004:FKIKSystem
+  - first:
+      4: 400158
+    second: ninja_rig_0004:FKKnee_L
+  - first:
+      4: 400160
+    second: ninja_rig_0004:FKKnee_R
+  - first:
+      4: 400162
+    second: ninja_rig_0004:FKOffsetAnkle_L
+  - first:
+      4: 400164
+    second: ninja_rig_0004:FKOffsetAnkle_R
+  - first:
+      4: 400166
+    second: ninja_rig_0004:FKOffsetElbow_L
+  - first:
+      4: 400168
+    second: ninja_rig_0004:FKOffsetHip_L
+  - first:
+      4: 400170
+    second: ninja_rig_0004:FKOffsetHip_R
+  - first:
+      4: 400172
+    second: ninja_rig_0004:FKOffsetIndexFinger1_L
+  - first:
+      4: 400174
+    second: ninja_rig_0004:FKOffsetIndexFinger1_R
+  - first:
+      4: 400176
+    second: ninja_rig_0004:FKOffsetKnee_L
+  - first:
+      4: 400178
+    second: ninja_rig_0004:FKOffsetKnee_R
+  - first:
+      4: 400180
+    second: ninja_rig_0004:FKOffsetMiddleFinger1_L
+  - first:
+      4: 400182
+    second: ninja_rig_0004:FKOffsetMiddleFinger1_R
+  - first:
+      4: 400184
+    second: ninja_rig_0004:FKOffsetNeck_M
+  - first:
+      4: 400186
+    second: ninja_rig_0004:FKOffsetPinkyFinger1_L
+  - first:
+      4: 400188
+    second: ninja_rig_0004:FKOffsetPinkyFinger1_R
+  - first:
+      4: 400190
+    second: ninja_rig_0004:FKOffsetRingFinger1_L
+  - first:
+      4: 400192
+    second: ninja_rig_0004:FKOffsetRingFinger1_R
+  - first:
+      4: 400194
+    second: ninja_rig_0004:FKOffsetRoot_M
+  - first:
+      4: 400196
+    second: ninja_rig_0004:FKOffsetScapula_L
+  - first:
+      4: 400198
+    second: ninja_rig_0004:FKOffsetScapula_R
+  - first:
+      4: 400200
+    second: ninja_rig_0004:FKOffsetShoulder_L
+  - first:
+      4: 400202
+    second: ninja_rig_0004:FKOffsetShoulder_R
+  - first:
+      4: 400204
+    second: ninja_rig_0004:FKOffsetThumbFinger1_L
+  - first:
+      4: 400206
+    second: ninja_rig_0004:FKOffsetThumbFinger1_R
+  - first:
+      4: 400208
+    second: ninja_rig_0004:FKOffsetToes_L
+  - first:
+      4: 400210
+    second: ninja_rig_0004:FKOffsetToes_R
+  - first:
+      4: 400212
+    second: ninja_rig_0004:FKOffsetWrist_L
+  - first:
+      4: 400214
+    second: ninja_rig_0004:FKParentConstraintToChest_M
+  - first:
+      4: 400216
+    second: ninja_rig_0004:FKParentConstraintToRoot_M
+  - first:
+      4: 400218
+    second: ninja_rig_0004:FKParentConstraintToScapula_L
+  - first:
+      4: 400220
+    second: ninja_rig_0004:FKParentConstraintToScapula_R
+  - first:
+      4: 400222
+    second: ninja_rig_0004:FKParentConstraintToWrist_L
+  - first:
+      4: 400224
+    second: ninja_rig_0004:FKParentConstraintToWrist_R
+  - first:
+      4: 400226
+    second: ninja_rig_0004:FKShoulder_L
+  - first:
+      4: 400228
+    second: ninja_rig_0004:FKSystem
+  - first:
+      4: 400230
+    second: ninja_rig_0004:FKToes_L
+  - first:
+      4: 400232
+    second: ninja_rig_0004:FKToes_R
+  - first:
+      4: 400234
+    second: ninja_rig_0004:FKWrist_L
+  - first:
+      4: 400236
+    second: ninja_rig_0004:FKXAnkle_L
+  - first:
+      4: 400238
+    second: ninja_rig_0004:FKXAnkle_R
+  - first:
+      4: 400240
+    second: ninja_rig_0004:FKXElbow_L
+  - first:
+      4: 400242
+    second: ninja_rig_0004:FKXHip_L
+  - first:
+      4: 400244
+    second: ninja_rig_0004:FKXHip_R
+  - first:
+      4: 400246
+    second: ninja_rig_0004:FKXKnee_L
+  - first:
+      4: 400248
+    second: ninja_rig_0004:FKXKnee_R
+  - first:
+      4: 400250
+    second: ninja_rig_0004:FKXShoulder_L
+  - first:
+      4: 400252
+    second: ninja_rig_0004:FKXToes_L
+  - first:
+      4: 400254
+    second: ninja_rig_0004:FKXToes_R
+  - first:
+      4: 400256
+    second: ninja_rig_0004:FKXWrist_L
+  - first:
+      4: 400258
+    second: ninja_rig_0004:Geometry
+  - first:
+      4: 400260
+    second: ninja_rig_0004:GlobalHead_M
+  - first:
+      4: 400262
+    second: ninja_rig_0004:GlobalOffsetHead_M
+  - first:
+      4: 400264
+    second: ninja_rig_0004:GlobalSystem
+  - first:
+      4: 400266
+    second: ninja_rig_0004:Group
+  - first:
+      4: 400268
+    second: ninja_rig_0004:group1
+  - first:
+      4: 400270
+    second: ninja_rig_0004:Head
+  - first:
+      4: 400272
+    second: ninja_rig_0004:Head_M
+  - first:
+      4: 400274
+    second: ninja_rig_0004:HeadEnd
+  - first:
+      4: 400276
+    second: ninja_rig_0004:HeadEnd_M
+  - first:
+      4: 400278
+    second: ninja_rig_0004:Heel
+  - first:
+      4: 400280
+    second: ninja_rig_0004:Hip
+  - first:
+      4: 400282
+    second: ninja_rig_0004:Hip_L
+  - first:
+      4: 400284
+    second: ninja_rig_0004:Hip_R
+  - first:
+      4: 400286
+    second: ninja_rig_0004:IKArm_R
+  - first:
+      4: 400288
+    second: ninja_rig_0004:IKArmHandle_R
+  - first:
+      4: 400290
+    second: ninja_rig_0004:IKCurve
+  - first:
+      4: 400292
+    second: ninja_rig_0004:IKdistanceArm_L
+  - first:
+      4: 400294
+    second: ninja_rig_0004:IKdistanceArm_R
+  - first:
+      4: 400296
+    second: ninja_rig_0004:IKdistanceLeg_L
+  - first:
+      4: 400298
+    second: ninja_rig_0004:IKdistanceLeg_R
+  - first:
+      4: 400300
+    second: ninja_rig_0004:IKExtraArm_L
+  - first:
+      4: 400302
+    second: ninja_rig_0004:IKExtraArm_R
+  - first:
+      4: 400304
+    second: ninja_rig_0004:IKExtraLeg_L
+  - first:
+      4: 400306
+    second: ninja_rig_0004:IKExtraLeg_R
+  - first:
+      4: 400308
+    second: ninja_rig_0004:IKExtraSpine1_M
+  - first:
+      4: 400310
+    second: ninja_rig_0004:IKExtraSpine2_M
+  - first:
+      4: 400312
+    second: ninja_rig_0004:IKfake0Spine_M
+  - first:
+      4: 400314
+    second: ninja_rig_0004:IKfake1Spine_M
+  - first:
+      4: 400316
+    second: ninja_rig_0004:IKFake1UpLocSpine_M
+  - first:
+      4: 400318
+    second: ninja_rig_0004:IKfake2Spine_M
+  - first:
+      4: 400320
+    second: ninja_rig_0004:IKfake3Spine_M
+  - first:
+      4: 400322
+    second: ninja_rig_0004:IKFKAlignedArm_R
+  - first:
+      4: 400324
+    second: ninja_rig_0004:IKFKAlignedOffsetArm_R
+  - first:
+      4: 400326
+    second: ninja_rig_0004:IKFollow
+  - first:
+      4: 400328
+    second: ninja_rig_0004:IKHandle
+  - first:
+      4: 400330
+    second: ninja_rig_0004:IKJoints
+  - first:
+      4: 400332
+    second: ninja_rig_0004:IKMessure
+  - first:
+      4: 400334
+    second: ninja_rig_0004:IKmessureConstrainToArm_R
+  - first:
+      4: 400336
+    second: ninja_rig_0004:IKMessureFromHip_L
+  - first:
+      4: 400338
+    second: ninja_rig_0004:IKMessureFromHip_R
+  - first:
+      4: 400340
+    second: ninja_rig_0004:IKMessureFromShoulder_L
+  - first:
+      4: 400342
+    second: ninja_rig_0004:IKMessureFromShoulder_R
+  - first:
+      4: 400344
+    second: ninja_rig_0004:IKmessureLoc1Arm_L
+  - first:
+      4: 400346
+    second: ninja_rig_0004:IKmessureLoc1Arm_R
+  - first:
+      4: 400348
+    second: ninja_rig_0004:IKmessureLoc1Leg_L
+  - first:
+      4: 400350
+    second: ninja_rig_0004:IKmessureLoc1Leg_R
+  - first:
+      4: 400352
+    second: ninja_rig_0004:IKmessureLoc2Arm_L
+  - first:
+      4: 400354
+    second: ninja_rig_0004:IKmessureLoc2Arm_R
+  - first:
+      4: 400356
+    second: ninja_rig_0004:IKmessureLoc2Leg_L
+  - first:
+      4: 400358
+    second: ninja_rig_0004:IKmessureLoc2Leg_R
+  - first:
+      4: 400360
+    second: ninja_rig_0004:IKOffsetArm_L
+  - first:
+      4: 400362
+    second: ninja_rig_0004:IKOffsetArm_LFollow
+  - first:
+      4: 400364
+    second: ninja_rig_0004:IKOffsetArm_LFollowNoScale
+  - first:
+      4: 400366
+    second: ninja_rig_0004:IKOffsetArm_LStatic
+  - first:
+      4: 400368
+    second: ninja_rig_0004:IKOffsetArm_R
+  - first:
+      4: 400370
+    second: ninja_rig_0004:IKOffsetArm_RFollow
+  - first:
+      4: 400372
+    second: ninja_rig_0004:IKOffsetArm_RFollowNoScale
+  - first:
+      4: 400374
+    second: ninja_rig_0004:IKOffsetArm_RStatic
+  - first:
+      4: 400376
+    second: ninja_rig_0004:IKOffsetLeg_L
+  - first:
+      4: 400378
+    second: ninja_rig_0004:IKOffsetLeg_R
+  - first:
+      4: 400380
+    second: ninja_rig_0004:IKOffsetSpine1_M
+  - first:
+      4: 400382
+    second: ninja_rig_0004:IKOffsetSpine2_M
+  - first:
+      4: 400384
+    second: ninja_rig_0004:IKParentConstraintHip_L
+  - first:
+      4: 400386
+    second: ninja_rig_0004:IKParentConstraintHip_R
+  - first:
+      4: 400388
+    second: ninja_rig_0004:IKParentConstraintRoot_M
+  - first:
+      4: 400390
+    second: ninja_rig_0004:IKParentConstraintShoulder_L
+  - first:
+      4: 400392
+    second: ninja_rig_0004:IKParentConstraintShoulder_R
+  - first:
+      4: 400394
+    second: ninja_rig_0004:IKRootConstraint
+  - first:
+      4: 400396
+    second: ninja_rig_0004:IKScalerChest_M
+  - first:
+      4: 400398
+    second: ninja_rig_0004:IKScalerRoot_M
+  - first:
+      4: 400400
+    second: ninja_rig_0004:IKScalerSpine1_M
+  - first:
+      4: 400402
+    second: ninja_rig_0004:IKSpChest_M
+  - first:
+      4: 400404
+    second: ninja_rig_0004:IKSpChestFollowOffset_M
+  - first:
+      4: 400406
+    second: ninja_rig_0004:IKSpine0AlignTo_M
+  - first:
+      4: 400408
+    second: ninja_rig_0004:IKSpine1_M
+  - first:
+      4: 400410
+    second: ninja_rig_0004:IKSpine2_M
+  - first:
+      4: 400412
+    second: ninja_rig_0004:IKSpine2AlignTo_M
+  - first:
+      4: 400414
+    second: ninja_rig_0004:IKSpine2AlignUnIKTwistTo_M
+  - first:
+      4: 400416
+    second: ninja_rig_0004:IKSpine2AlignUnIKTwistToOffset_M
+  - first:
+      4: 400418
+    second: ninja_rig_0004:IKSpineCurve_M
+  - first:
+      4: 400420
+    second: ninja_rig_0004:IKSpineHandle_M
+  - first:
+      4: 400422
+    second: ninja_rig_0004:IKSpineLocator0_M
+  - first:
+      4: 400424
+    second: ninja_rig_0004:IKSpineLocator1_M
+  - first:
+      4: 400426
+    second: ninja_rig_0004:IKSpineLocator2_M
+  - first:
+      4: 400428
+    second: ninja_rig_0004:IKSpineLocator3_M
+  - first:
+      4: 400430
+    second: ninja_rig_0004:IKSpRoot_M
+  - first:
+      4: 400432
+    second: ninja_rig_0004:IKSpRootFollowOffset_M
+  - first:
+      4: 400434
+    second: ninja_rig_0004:IKSpSpine1_M
+  - first:
+      4: 400436
+    second: ninja_rig_0004:IKSpSpine1FollowOffset_M
+  - first:
+      4: 400438
+    second: ninja_rig_0004:IKSpSpineOffset_M
+  - first:
+      4: 400440
+    second: ninja_rig_0004:IKStatic
+  - first:
+      4: 400442
+    second: ninja_rig_0004:IKStiffOrientSpine1_M
+  - first:
+      4: 400444
+    second: ninja_rig_0004:IKStiffOrientSpine2_M
+  - first:
+      4: 400446
+    second: ninja_rig_0004:IKSystem
+  - first:
+      4: 400448
+    second: ninja_rig_0004:IKX2Ankle_L
+  - first:
+      4: 400450
+    second: ninja_rig_0004:IKX2Ankle_R
+  - first:
+      4: 400452
+    second: ninja_rig_0004:IKX2Chest_M
+  - first:
+      4: 400454
+    second: ninja_rig_0004:IKX2Elbow_L
+  - first:
+      4: 400456
+    second: ninja_rig_0004:IKX2Elbow_R
+  - first:
+      4: 400458
+    second: ninja_rig_0004:IKX2Hip_L
+  - first:
+      4: 400460
+    second: ninja_rig_0004:IKX2Hip_R
+  - first:
+      4: 400462
+    second: ninja_rig_0004:IKX2Knee_L
+  - first:
+      4: 400464
+    second: ninja_rig_0004:IKX2Knee_R
+  - first:
+      4: 400466
+    second: ninja_rig_0004:IKX2Root_M
+  - first:
+      4: 400468
+    second: ninja_rig_0004:IKX2Shoulder_L
+  - first:
+      4: 400470
+    second: ninja_rig_0004:IKX2Shoulder_R
+  - first:
+      4: 400472
+    second: ninja_rig_0004:IKX2Spine1_M
+  - first:
+      4: 400474
+    second: ninja_rig_0004:IKX2Toes_L
+  - first:
+      4: 400476
+    second: ninja_rig_0004:IKX2Toes_R
+  - first:
+      4: 400478
+    second: ninja_rig_0004:IKX2ToesEnd_L
+  - first:
+      4: 400480
+    second: ninja_rig_0004:IKX2ToesEnd_R
+  - first:
+      4: 400482
+    second: ninja_rig_0004:IKX2Wrist_L
+  - first:
+      4: 400484
+    second: ninja_rig_0004:IKX2Wrist_R
+  - first:
+      4: 400486
+    second: ninja_rig_0004:IKXAnkle_L
+  - first:
+      4: 400488
+    second: ninja_rig_0004:IKXAnkle_R
+  - first:
+      4: 400490
+    second: ninja_rig_0004:IKXChest_M
+  - first:
+      4: 400492
+    second: ninja_rig_0004:IKXElbow_L
+  - first:
+      4: 400494
+    second: ninja_rig_0004:IKXElbow_R
+  - first:
+      4: 400496
+    second: ninja_rig_0004:IKXHip_L
+  - first:
+      4: 400498
+    second: ninja_rig_0004:IKXHip_R
+  - first:
+      4: 400500
+    second: ninja_rig_0004:IKXKnee_L
+  - first:
+      4: 400502
+    second: ninja_rig_0004:IKXKnee_R
+  - first:
+      4: 400504
+    second: ninja_rig_0004:IKXOffsetHip_L
+  - first:
+      4: 400506
+    second: ninja_rig_0004:IKXOffsetHip_R
+  - first:
+      4: 400508
+    second: ninja_rig_0004:IKXOffsetRoot_M
+  - first:
+      4: 400510
+    second: ninja_rig_0004:IKXOffsetShoulder_L
+  - first:
+      4: 400512
+    second: ninja_rig_0004:IKXOffsetShoulder_R
+  - first:
+      4: 400514
+    second: ninja_rig_0004:IKXRoot_M
+  - first:
+      4: 400516
+    second: ninja_rig_0004:IKXShoulder_L
+  - first:
+      4: 400518
+    second: ninja_rig_0004:IKXShoulder_R
+  - first:
+      4: 400520
+    second: ninja_rig_0004:IKXSpine1_M
+  - first:
+      4: 400522
+    second: ninja_rig_0004:IKXToes_L
+  - first:
+      4: 400524
+    second: ninja_rig_0004:IKXToes_R
+  - first:
+      4: 400526
+    second: ninja_rig_0004:IKXToesEnd_L
+  - first:
+      4: 400528
+    second: ninja_rig_0004:IKXToesEnd_R
+  - first:
+      4: 400530
+    second: ninja_rig_0004:IKXWrist_L
+  - first:
+      4: 400532
+    second: ninja_rig_0004:IKXWrist_R
+  - first:
+      4: 400534
+    second: ninja_rig_0004:IndexFinger1
+  - first:
+      4: 400536
+    second: ninja_rig_0004:IndexFinger1_L
+  - first:
+      4: 400538
+    second: ninja_rig_0004:IndexFinger1_R
+  - first:
+      4: 400540
+    second: ninja_rig_0004:IndexFinger2
+  - first:
+      4: 400542
+    second: ninja_rig_0004:IndexFinger2_L
+  - first:
+      4: 400544
+    second: ninja_rig_0004:IndexFinger2_R
+  - first:
+      4: 400546
+    second: ninja_rig_0004:IndexFinger3
+  - first:
+      4: 400548
+    second: ninja_rig_0004:IndexFinger3_L
+  - first:
+      4: 400550
+    second: ninja_rig_0004:IndexFinger3_R
+  - first:
+      4: 400552
+    second: ninja_rig_0004:IndexFinger4
+  - first:
+      4: 400554
+    second: ninja_rig_0004:IndexFinger4_L
+  - first:
+      4: 400556
+    second: ninja_rig_0004:IndexFinger4_R
+  - first:
+      4: 400558
+    second: ninja_rig_0004:Jaw
+  - first:
+      4: 400560
+    second: ninja_rig_0004:Jaw_M
+  - first:
+      4: 400562
+    second: ninja_rig_0004:JawEnd
+  - first:
+      4: 400564
+    second: ninja_rig_0004:JawEnd_M
+  - first:
+      4: 400566
+    second: ninja_rig_0004:jnt_blade_01
+  - first:
+      4: 400568
+    second: ninja_rig_0004:jnt_blade_02
+  - first:
+      4: 400570
+    second: ninja_rig_0004:jnt_blade_03
+  - first:
+      4: 400572
+    second: ninja_rig_0004:jnt_blade_04
+  - first:
+      4: 400574
+    second: ninja_rig_0004:jnt_blade_05
+  - first:
+      4: 400576
+    second: ninja_rig_0004:jnt_blade_06
+  - first:
+      4: 400578
+    second: ninja_rig_0004:jnt_eye
+  - first:
+      4: 400580
+    second: ninja_rig_0004:jnt_eye1
+  - first:
+      4: 400582
+    second: ninja_rig_0004:jnt_pet
+  - first:
+      4: 400584
+    second: ninja_rig_0004:jnt_pet1
+  - first:
+      4: 400586
+    second: ninja_rig_0004:jnt_pet1 1
+  - first:
+      4: 400588
+    second: ninja_rig_0004:jnt_pet2
+  - first:
+      4: 400590
+    second: ninja_rig_0004:jnt_pet2 1
+  - first:
+      4: 400592
+    second: ninja_rig_0004:jnt_pet3
+  - first:
+      4: 400594
+    second: ninja_rig_0004:Knee
+  - first:
+      4: 400596
+    second: ninja_rig_0004:Knee_L
+  - first:
+      4: 400598
+    second: ninja_rig_0004:Knee_R
+  - first:
+      4: 400600
+    second: ninja_rig_0004:LegLockConstrained
+  - first:
+      4: 400602
+    second: ninja_rig_0004:Main
+  - first:
+      4: 400604
+    second: ninja_rig_0004:MiddleFinger1
+  - first:
+      4: 400606
+    second: ninja_rig_0004:MiddleFinger1_L
+  - first:
+      4: 400608
+    second: ninja_rig_0004:MiddleFinger1_R
+  - first:
+      4: 400610
+    second: ninja_rig_0004:MiddleFinger2
+  - first:
+      4: 400612
+    second: ninja_rig_0004:MiddleFinger2_L
+  - first:
+      4: 400614
+    second: ninja_rig_0004:MiddleFinger2_R
+  - first:
+      4: 400616
+    second: ninja_rig_0004:MiddleFinger3
+  - first:
+      4: 400618
+    second: ninja_rig_0004:MiddleFinger3_L
+  - first:
+      4: 400620
+    second: ninja_rig_0004:MiddleFinger3_R
+  - first:
+      4: 400622
+    second: ninja_rig_0004:MiddleFinger4
+  - first:
+      4: 400624
+    second: ninja_rig_0004:MiddleFinger4_L
+  - first:
+      4: 400626
+    second: ninja_rig_0004:MiddleFinger4_R
+  - first:
+      4: 400628
+    second: ninja_rig_0004:MotionSystem
+  - first:
+      4: 400630
+    second: ninja_rig_0004:Neck
+  - first:
+      4: 400632
+    second: ninja_rig_0004:Neck_M
+  - first:
+      4: 400634
+    second: ninja_rig_0004:Ninja:Cloth2:Group2
+  - first:
+      4: 400636
+    second: ninja_rig_0004:Ninja:Eyes:polySurface6
+  - first:
+      4: 400638
+    second: ninja_rig_0004:Ninja:Hand:fingers
+  - first:
+      4: 400640
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend
+  - first:
+      4: 400642
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend1
+  - first:
+      4: 400644
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend1 1
+  - first:
+      4: 400646
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend2
+  - first:
+      4: 400648
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend2 1
+  - first:
+      4: 400650
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend3
+  - first:
+      4: 400652
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend3 1
+  - first:
+      4: 400654
+    second: ninja_rig_0004:Ninja:Hand:jnt_bend4
+  - first:
+      4: 400656
+    second: ninja_rig_0004:ninja_body
+  - first:
+      4: 400658
+    second: ninja_rig_0004:pCube1
+  - first:
+      4: 400660
+    second: ninja_rig_0004:PinkyFinger1
+  - first:
+      4: 400662
+    second: ninja_rig_0004:PinkyFinger1_L
+  - first:
+      4: 400664
+    second: ninja_rig_0004:PinkyFinger1_R
+  - first:
+      4: 400666
+    second: ninja_rig_0004:PinkyFinger2
+  - first:
+      4: 400668
+    second: ninja_rig_0004:PinkyFinger2_L
+  - first:
+      4: 400670
+    second: ninja_rig_0004:PinkyFinger2_R
+  - first:
+      4: 400672
+    second: ninja_rig_0004:PinkyFinger3
+  - first:
+      4: 400674
+    second: ninja_rig_0004:PinkyFinger3_L
+  - first:
+      4: 400676
+    second: ninja_rig_0004:PinkyFinger3_R
+  - first:
+      4: 400678
+    second: ninja_rig_0004:PinkyFinger4
+  - first:
+      4: 400680
+    second: ninja_rig_0004:PinkyFinger4_L
+  - first:
+      4: 400682
+    second: ninja_rig_0004:PinkyFinger4_R
+  - first:
+      4: 400684
+    second: ninja_rig_0004:PoleAimLeg_L
+  - first:
+      4: 400686
+    second: ninja_rig_0004:PoleAimLeg_R
+  - first:
+      4: 400688
+    second: ninja_rig_0004:PoleAnnotationArm_L
+  - first:
+      4: 400690
+    second: ninja_rig_0004:PoleAnnotationArm_R
+  - first:
+      4: 400692
+    second: ninja_rig_0004:PoleAnnotationLeg_L
+  - first:
+      4: 400694
+    second: ninja_rig_0004:PoleAnnotationLeg_R
+  - first:
+      4: 400696
+    second: ninja_rig_0004:PoleArm_R
+  - first:
+      4: 400698
+    second: ninja_rig_0004:PoleExtraArm_L
+  - first:
+      4: 400700
+    second: ninja_rig_0004:PoleExtraArm_R
+  - first:
+      4: 400702
+    second: ninja_rig_0004:PoleExtraLeg_L
+  - first:
+      4: 400704
+    second: ninja_rig_0004:PoleExtraLeg_R
+  - first:
+      4: 400706
+    second: ninja_rig_0004:PoleOffsetArm_L
+  - first:
+      4: 400708
+    second: ninja_rig_0004:PoleOffsetArm_LStatic
+  - first:
+      4: 400710
+    second: ninja_rig_0004:PoleOffsetArm_R
+  - first:
+      4: 400712
+    second: ninja_rig_0004:PoleOffsetArm_RFollow
+  - first:
+      4: 400714
+    second: ninja_rig_0004:PoleOffsetArm_RFollowNoScale
+  - first:
+      4: 400716
+    second: ninja_rig_0004:PoleOffsetArm_RStatic
+  - first:
+      4: 400718
+    second: ninja_rig_0004:PoleOffsetLeg_L
+  - first:
+      4: 400720
+    second: ninja_rig_0004:PoleOffsetLeg_LFollow
+  - first:
+      4: 400722
+    second: ninja_rig_0004:PoleOffsetLeg_LFollowNoScale
+  - first:
+      4: 400724
+    second: ninja_rig_0004:PoleOffsetLeg_LStatic
+  - first:
+      4: 400726
+    second: ninja_rig_0004:PoleOffsetLeg_R
+  - first:
+      4: 400728
+    second: ninja_rig_0004:PoleOffsetLeg_RFollow
+  - first:
+      4: 400730
+    second: ninja_rig_0004:PoleOffsetLeg_RFollowNoScale
+  - first:
+      4: 400732
+    second: ninja_rig_0004:PoleOffsetLeg_RStatic
+  - first:
+      4: 400734
+    second: ninja_rig_0004:pSphere1
+  - first:
+      4: 400736
+    second: ninja_rig_0004:pSphere2
+  - first:
+      4: 400738
+    second: ninja_rig_0004:RingFinger1
+  - first:
+      4: 400740
+    second: ninja_rig_0004:RingFinger2
+  - first:
+      4: 400742
+    second: ninja_rig_0004:RingFinger3
+  - first:
+      4: 400744
+    second: ninja_rig_0004:RingFinger4
+  - first:
+      4: 400746
+    second: ninja_rig_0004:Root
+  - first:
+      4: 400748
+    second: ninja_rig_0004:Root_M
+  - first:
+      4: 400750
+    second: ninja_rig_0004:RootExtraX_M
+  - first:
+      4: 400752
+    second: ninja_rig_0004:RootOffsetX_M
+  - first:
+      4: 400754
+    second: ninja_rig_0004:RootSystem
+  - first:
+      4: 400756
+    second: ninja_rig_0004:Scapula
+  - first:
+      4: 400758
+    second: ninja_rig_0004:Scapula_L
+  - first:
+      4: 400760
+    second: ninja_rig_0004:Scapula_R
+  - first:
+      4: 400762
+    second: ninja_rig_0004:SDK1FKIndexFinger1_L
+  - first:
+      4: 400764
+    second: ninja_rig_0004:SDK1FKIndexFinger1_R
+  - first:
+      4: 400766
+    second: ninja_rig_0004:SDK1FKMiddleFinger1_L
+  - first:
+      4: 400768
+    second: ninja_rig_0004:SDK1FKMiddleFinger1_R
+  - first:
+      4: 400770
+    second: ninja_rig_0004:SDK1FKPinkyFinger1_L
+  - first:
+      4: 400772
+    second: ninja_rig_0004:SDK1FKPinkyFinger1_R
+  - first:
+      4: 400774
+    second: ninja_rig_0004:SDK1FKRingFinger1_L
+  - first:
+      4: 400776
+    second: ninja_rig_0004:SDK1FKRingFinger1_R
+  - first:
+      4: 400778
+    second: ninja_rig_0004:SDK2FKIndexFinger1_L
+  - first:
+      4: 400780
+    second: ninja_rig_0004:SDK2FKIndexFinger1_R
+  - first:
+      4: 400782
+    second: ninja_rig_0004:SDK2FKPinkyFinger1_L
+  - first:
+      4: 400784
+    second: ninja_rig_0004:SDK2FKPinkyFinger1_R
+  - first:
+      4: 400786
+    second: ninja_rig_0004:SDK2FKRingFinger1_L
+  - first:
+      4: 400788
+    second: ninja_rig_0004:SDK2FKRingFinger1_R
+  - first:
+      4: 400790
+    second: ninja_rig_0004:Shoulder
+  - first:
+      4: 400792
+    second: ninja_rig_0004:Shoulder_L
+  - first:
+      4: 400794
+    second: ninja_rig_0004:Shoulder_R
+  - first:
+      4: 400796
+    second: ninja_rig_0004:ShoulderPart1_L
+  - first:
+      4: 400798
+    second: ninja_rig_0004:ShoulderPart1_R
+  - first:
+      4: 400800
+    second: ninja_rig_0004:ShoulderPart2_L
+  - first:
+      4: 400802
+    second: ninja_rig_0004:ShoulderPart2_R
+  - first:
+      4: 400804
+    second: ninja_rig_0004:Spine1
+  - first:
+      4: 400806
+    second: ninja_rig_0004:Spine1_M
+  - first:
+      4: 400808
+    second: ninja_rig_0004:ThumbFinger1
+  - first:
+      4: 400810
+    second: ninja_rig_0004:ThumbFinger1_L
+  - first:
+      4: 400812
+    second: ninja_rig_0004:ThumbFinger1_R
+  - first:
+      4: 400814
+    second: ninja_rig_0004:ThumbFinger2
+  - first:
+      4: 400816
+    second: ninja_rig_0004:ThumbFinger2_L
+  - first:
+      4: 400818
+    second: ninja_rig_0004:ThumbFinger2_R
+  - first:
+      4: 400820
+    second: ninja_rig_0004:ThumbFinger3
+  - first:
+      4: 400822
+    second: ninja_rig_0004:ThumbFinger3_L
+  - first:
+      4: 400824
+    second: ninja_rig_0004:ThumbFinger3_R
+  - first:
+      4: 400826
+    second: ninja_rig_0004:ThumbFinger4
+  - first:
+      4: 400828
+    second: ninja_rig_0004:ThumbFinger4_L
+  - first:
+      4: 400830
+    second: ninja_rig_0004:ThumbFinger4_R
+  - first:
+      4: 400832
+    second: ninja_rig_0004:Toes
+  - first:
+      4: 400834
+    second: ninja_rig_0004:Toes_L
+  - first:
+      4: 400836
+    second: ninja_rig_0004:Toes_R
+  - first:
+      4: 400838
+    second: ninja_rig_0004:ToesEnd
+  - first:
+      4: 400840
+    second: ninja_rig_0004:ToesEnd_L
+  - first:
+      4: 400842
+    second: ninja_rig_0004:ToesEnd_R
+  - first:
+      4: 400844
+    second: ninja_rig_0004:TwistBalancerChest_M
+  - first:
+      4: 400846
+    second: ninja_rig_0004:TwistBalancerElbow_L
+  - first:
+      4: 400848
+    second: ninja_rig_0004:TwistBalancerElbow_R
+  - first:
+      4: 400850
+    second: ninja_rig_0004:TwistBalancerShoulder_L
+  - first:
+      4: 400852
+    second: ninja_rig_0004:TwistBalancerShoulder_R
+  - first:
+      4: 400854
+    second: ninja_rig_0004:TwisterElbow0_L
+  - first:
+      4: 400856
+    second: ninja_rig_0004:TwisterElbow0_R
+  - first:
+      4: 400858
+    second: ninja_rig_0004:TwisterElbow1_L
+  - first:
+      4: 400860
+    second: ninja_rig_0004:TwisterElbow1_R
+  - first:
+      4: 400862
+    second: ninja_rig_0004:TwisterElbow2_L
+  - first:
+      4: 400864
+    second: ninja_rig_0004:TwisterElbow2_R
+  - first:
+      4: 400866
+    second: ninja_rig_0004:TwisterShoulder0_L
+  - first:
+      4: 400868
+    second: ninja_rig_0004:TwisterShoulder0_R
+  - first:
+      4: 400870
+    second: ninja_rig_0004:TwisterShoulder1_L
+  - first:
+      4: 400872
+    second: ninja_rig_0004:TwisterShoulder1_R
+  - first:
+      4: 400874
+    second: ninja_rig_0004:TwisterShoulder2_L
+  - first:
+      4: 400876
+    second: ninja_rig_0004:TwisterShoulder2_R
+  - first:
+      4: 400878
+    second: ninja_rig_0004:TwistFollowChest_M
+  - first:
+      4: 400880
+    second: ninja_rig_0004:TwistFollowElbow_L
+  - first:
+      4: 400882
+    second: ninja_rig_0004:TwistFollowElbow_R
+  - first:
+      4: 400884
+    second: ninja_rig_0004:TwistFollowOffsetChest_M
+  - first:
+      4: 400886
+    second: ninja_rig_0004:TwistFollowOffsetElbow_L
+  - first:
+      4: 400888
+    second: ninja_rig_0004:TwistFollowOffsetElbow_R
+  - first:
+      4: 400890
+    second: ninja_rig_0004:TwistFollowOffsetShoulder_L
+  - first:
+      4: 400892
+    second: ninja_rig_0004:TwistFollowOffsetShoulder_R
+  - first:
+      4: 400894
+    second: ninja_rig_0004:TwistFollowParentChest_M
+  - first:
+      4: 400896
+    second: ninja_rig_0004:TwistFollowParentElbow_L
+  - first:
+      4: 400898
+    second: ninja_rig_0004:TwistFollowParentElbow_R
+  - first:
+      4: 400900
+    second: ninja_rig_0004:TwistFollowParentOffsetChest_M
+  - first:
+      4: 400902
+    second: ninja_rig_0004:TwistFollowParentOffsetElbow_L
+  - first:
+      4: 400904
+    second: ninja_rig_0004:TwistFollowParentOffsetElbow_R
+  - first:
+      4: 400906
+    second: ninja_rig_0004:TwistFollowParentOffsetShoulder_L
+  - first:
+      4: 400908
+    second: ninja_rig_0004:TwistFollowParentOffsetShoulder_R
+  - first:
+      4: 400910
+    second: ninja_rig_0004:TwistFollowParentShoulder_L
+  - first:
+      4: 400912
+    second: ninja_rig_0004:TwistFollowParentShoulder_R
+  - first:
+      4: 400914
+    second: ninja_rig_0004:TwistFollowShoulder_L
+  - first:
+      4: 400916
+    second: ninja_rig_0004:TwistFollowShoulder_R
+  - first:
+      4: 400918
+    second: ninja_rig_0004:TwistSystem
+  - first:
+      4: 400920
+    second: ninja_rig_0004:UnTwistChest_M
+  - first:
+      4: 400922
+    second: ninja_rig_0004:UnTwistElbow_L
+  - first:
+      4: 400924
+    second: ninja_rig_0004:UnTwistElbow_R
+  - first:
+      4: 400926
+    second: ninja_rig_0004:UnTwistEndChest_M
+  - first:
+      4: 400928
+    second: ninja_rig_0004:UnTwistEndElbow_L
+  - first:
+      4: 400930
+    second: ninja_rig_0004:UnTwistEndElbow_R
+  - first:
+      4: 400932
+    second: ninja_rig_0004:UnTwistEndShoulder_L
+  - first:
+      4: 400934
+    second: ninja_rig_0004:UnTwistEndShoulder_R
+  - first:
+      4: 400936
+    second: ninja_rig_0004:UnTwistIKChest_M
+  - first:
+      4: 400938
+    second: ninja_rig_0004:UnTwistIKElbow_L
+  - first:
+      4: 400940
+    second: ninja_rig_0004:UnTwistIKElbow_R
+  - first:
+      4: 400942
+    second: ninja_rig_0004:UnTwistIKShoulder_L
+  - first:
+      4: 400944
+    second: ninja_rig_0004:UnTwistIKShoulder_R
+  - first:
+      4: 400946
+    second: ninja_rig_0004:UnTwistShoulder_L
+  - first:
+      4: 400948
+    second: ninja_rig_0004:UnTwistShoulder_R
+  - first:
+      4: 400950
+    second: ninja_rig_0004:Wrist
+  - first:
+      4: 400952
+    second: ninja_rig_0004:Wrist_L
+  - first:
+      4: 400954
+    second: ninja_rig_0004:Wrist_R
+  - first:
+      4: 400956
+    second: tweenMachineData
+  - first:
+      23: 2300000
+    second: ninja:skinCluster1Set1
+  - first:
+      23: 2300002
+    second: ninja:skinCluster2Set
+  - first:
+      23: 2300004
+    second: ninja:skinCluster2Set1
+  - first:
+      23: 2300006
+    second: ninja:skinCluster3Set
+  - first:
+      23: 2300008
+    second: ninja:skinCluster4Set
+  - first:
+      23: 2300010
+    second: ninja:skinCluster5Set
+  - first:
+      23: 2300012
+    second: ninja:skinCluster6Set
+  - first:
+      33: 3300000
+    second: ninja:skinCluster1Set1
+  - first:
+      33: 3300002
+    second: ninja:skinCluster2Set
+  - first:
+      33: 3300004
+    second: ninja:skinCluster2Set1
+  - first:
+      33: 3300006
+    second: ninja:skinCluster3Set
+  - first:
+      33: 3300008
+    second: ninja:skinCluster4Set
+  - first:
+      33: 3300010
+    second: ninja:skinCluster5Set
+  - first:
+      33: 3300012
+    second: ninja:skinCluster6Set
+  - first:
+      43: 4300000
+    second: ninja:skinCluster3Set
+  - first:
+      43: 4300002
+    second: ninja:skinCluster6Set
+  - first:
+      43: 4300004
+    second: ninja:skinCluster1Set1
+  - first:
+      43: 4300006
+    second: ninja:skinCluster2Set
+  - first:
+      43: 4300008
+    second: ninja:skinCluster2Set1
+  - first:
+      43: 4300010
+    second: ninja:skinCluster4Set
+  - first:
+      43: 4300012
+    second: ninja:skinCluster5Set
+  - first:
+      43: 4300014
+    second: ninja_rig_0004:Face:Group3
+  - first:
+      43: 4300016
+    second: ninja_rig_0004:pCube1
+  - first:
+      43: 4300018
+    second: ninja_rig_0004:Extract2:Group13289
+  - first:
+      43: 4300020
+    second: ninja_rig_0004:ninja_body
+  - first:
+      43: 4300022
+    second: ninja_rig_0004:Ninja:Eyes:polySurface6
+  - first:
+      43: 4300024
+    second: ninja_rig_0004:Ninja:Hand:fingers
+  - first:
+      43: 4300026
+    second: ninja_rig_0004:pSphere1
+  - first:
+      43: 4300028
+    second: ninja_rig_0004:pSphere2
+  - first:
+      74: 7400000
+    second: ninja
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: ninja_rig_0004:Extract2:Group13289
+  - first:
+      137: 13700002
+    second: ninja_rig_0004:Face:Group3
+  - first:
+      137: 13700004
+    second: ninja_rig_0004:Ninja:Eyes:polySurface6
+  - first:
+      137: 13700006
+    second: ninja_rig_0004:Ninja:Hand:fingers
+  - first:
+      137: 13700008
+    second: ninja_rig_0004:ninja_body
+  - first:
+      137: 13700010
+    second: ninja_rig_0004:pCube1
+  - first:
+      137: 13700012
+    second: ninja_rig_0004:pSphere1
+  - first:
+      137: 13700014
+    second: ninja_rig_0004:pSphere2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ninja_rig_0004_Extract2_Cloth
+    second: {fileID: 2100000, guid: 461e0bdf3699e4238aa177ce8124a271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ninja_rig_0004_Extract2__Sword
+    second: {fileID: 2100000, guid: 461e0bdf3699e4238aa177ce8124a271, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ninja
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ninja:skinCluster1Set1
+        weight: 1
+      - path: ninja:skinCluster2Set
+        weight: 1
+      - path: ninja:skinCluster2Set1
+        weight: 1
+      - path: ninja:skinCluster3Set
+        weight: 1
+      - path: ninja:skinCluster4Set
+        weight: 1
+      - path: ninja:skinCluster5Set
+        weight: 1
+      - path: ninja:skinCluster6Set
+        weight: 1
+      - path: ninja_rig_0004:Group
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Geometry
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_L/ninja_rig_0004:Knee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_L/ninja_rig_0004:Knee_L/ninja_rig_0004:Ankle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_L/ninja_rig_0004:Knee_L/ninja_rig_0004:Ankle_L/ninja_rig_0004:Toes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_L/ninja_rig_0004:Knee_L/ninja_rig_0004:Ankle_L/ninja_rig_0004:Toes_L/ninja_rig_0004:ToesEnd_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_R/ninja_rig_0004:Knee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_R/ninja_rig_0004:Knee_R/ninja_rig_0004:Ankle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_R/ninja_rig_0004:Knee_R/ninja_rig_0004:Ankle_R/ninja_rig_0004:Toes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Hip_R/ninja_rig_0004:Knee_R/ninja_rig_0004:Ankle_R/ninja_rig_0004:Toes_R/ninja_rig_0004:ToesEnd_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:Eye_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:Eye_L/ninja_rig_0004:EyeEnd_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:Eye_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:Eye_R/ninja_rig_0004:EyeEnd_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:HeadEnd_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:Jaw_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Neck_M/ninja_rig_0004:Head_M/ninja_rig_0004:Jaw_M/ninja_rig_0004:JawEnd_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:IndexFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:IndexFinger1_L/ninja_rig_0004:IndexFinger2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:IndexFinger1_L/ninja_rig_0004:IndexFinger2_L/ninja_rig_0004:IndexFinger3_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:IndexFinger1_L/ninja_rig_0004:IndexFinger2_L/ninja_rig_0004:IndexFinger3_L/ninja_rig_0004:IndexFinger4_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:MiddleFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:MiddleFinger1_L/ninja_rig_0004:MiddleFinger2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:MiddleFinger1_L/ninja_rig_0004:MiddleFinger2_L/ninja_rig_0004:MiddleFinger3_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:MiddleFinger1_L/ninja_rig_0004:MiddleFinger2_L/ninja_rig_0004:MiddleFinger3_L/ninja_rig_0004:MiddleFinger4_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:PinkyFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:PinkyFinger1_L/ninja_rig_0004:PinkyFinger2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:PinkyFinger1_L/ninja_rig_0004:PinkyFinger2_L/ninja_rig_0004:PinkyFinger3_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:PinkyFinger1_L/ninja_rig_0004:PinkyFinger2_L/ninja_rig_0004:PinkyFinger3_L/ninja_rig_0004:PinkyFinger4_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:ThumbFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:ThumbFinger1_L/ninja_rig_0004:ThumbFinger2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:ThumbFinger1_L/ninja_rig_0004:ThumbFinger2_L/ninja_rig_0004:ThumbFinger3_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_L/ninja_rig_0004:Shoulder_L/ninja_rig_0004:ShoulderPart1_L/ninja_rig_0004:ShoulderPart2_L/ninja_rig_0004:Elbow_L/ninja_rig_0004:Wrist_L/ninja_rig_0004:ThumbFinger1_L/ninja_rig_0004:ThumbFinger2_L/ninja_rig_0004:ThumbFinger3_L/ninja_rig_0004:ThumbFinger4_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:IndexFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:IndexFinger1_R/ninja_rig_0004:IndexFinger2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:IndexFinger1_R/ninja_rig_0004:IndexFinger2_R/ninja_rig_0004:IndexFinger3_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:IndexFinger1_R/ninja_rig_0004:IndexFinger2_R/ninja_rig_0004:IndexFinger3_R/ninja_rig_0004:IndexFinger4_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:MiddleFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:MiddleFinger1_R/ninja_rig_0004:MiddleFinger2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:MiddleFinger1_R/ninja_rig_0004:MiddleFinger2_R/ninja_rig_0004:MiddleFinger3_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:MiddleFinger1_R/ninja_rig_0004:MiddleFinger2_R/ninja_rig_0004:MiddleFinger3_R/ninja_rig_0004:MiddleFinger4_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:PinkyFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:PinkyFinger1_R/ninja_rig_0004:PinkyFinger2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:PinkyFinger1_R/ninja_rig_0004:PinkyFinger2_R/ninja_rig_0004:PinkyFinger3_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:PinkyFinger1_R/ninja_rig_0004:PinkyFinger2_R/ninja_rig_0004:PinkyFinger3_R/ninja_rig_0004:PinkyFinger4_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:ThumbFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:ThumbFinger1_R/ninja_rig_0004:ThumbFinger2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:ThumbFinger1_R/ninja_rig_0004:ThumbFinger2_R/ninja_rig_0004:ThumbFinger3_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:DeformationSystem/ninja_rig_0004:Root_M/ninja_rig_0004:Spine1_M/ninja_rig_0004:Chest_M/ninja_rig_0004:Scapula_R/ninja_rig_0004:Shoulder_R/ninja_rig_0004:ShoulderPart1_R/ninja_rig_0004:ShoulderPart2_R/ninja_rig_0004:Elbow_R/ninja_rig_0004:Wrist_R/ninja_rig_0004:ThumbFinger1_R/ninja_rig_0004:ThumbFinger2_R/ninja_rig_0004:ThumbFinger3_R/ninja_rig_0004:ThumbFinger4_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Hip
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Hip/ninja_rig_0004:Knee
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Hip/ninja_rig_0004:Knee/ninja_rig_0004:Ankle
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Hip/ninja_rig_0004:Knee/ninja_rig_0004:Ankle/ninja_rig_0004:Heel
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Hip/ninja_rig_0004:Knee/ninja_rig_0004:Ankle/ninja_rig_0004:Toes
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Hip/ninja_rig_0004:Knee/ninja_rig_0004:Ankle/ninja_rig_0004:Toes/ninja_rig_0004:ToesEnd
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck/ninja_rig_0004:Head
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck/ninja_rig_0004:Head/ninja_rig_0004:Eye
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck/ninja_rig_0004:Head/ninja_rig_0004:Eye/ninja_rig_0004:EyeEnd
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck/ninja_rig_0004:Head/ninja_rig_0004:HeadEnd
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck/ninja_rig_0004:Head/ninja_rig_0004:Jaw
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Neck/ninja_rig_0004:Head/ninja_rig_0004:Jaw/ninja_rig_0004:JawEnd
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:IndexFinger1
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:IndexFinger1/ninja_rig_0004:IndexFinger2
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:IndexFinger1/ninja_rig_0004:IndexFinger2/ninja_rig_0004:IndexFinger3
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:IndexFinger1/ninja_rig_0004:IndexFinger2/ninja_rig_0004:IndexFinger3/ninja_rig_0004:IndexFinger4
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:MiddleFinger1
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:MiddleFinger1/ninja_rig_0004:MiddleFinger2
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:MiddleFinger1/ninja_rig_0004:MiddleFinger2/ninja_rig_0004:MiddleFinger3
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:MiddleFinger1/ninja_rig_0004:MiddleFinger2/ninja_rig_0004:MiddleFinger3/ninja_rig_0004:MiddleFinger4
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:PinkyFinger1
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:PinkyFinger1/ninja_rig_0004:PinkyFinger2
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:PinkyFinger1/ninja_rig_0004:PinkyFinger2/ninja_rig_0004:PinkyFinger3
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:PinkyFinger1/ninja_rig_0004:PinkyFinger2/ninja_rig_0004:PinkyFinger3/ninja_rig_0004:PinkyFinger4
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:RingFinger1
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:RingFinger1/ninja_rig_0004:RingFinger2
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:RingFinger1/ninja_rig_0004:RingFinger2/ninja_rig_0004:RingFinger3
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:RingFinger1/ninja_rig_0004:RingFinger2/ninja_rig_0004:RingFinger3/ninja_rig_0004:RingFinger4
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:ThumbFinger1
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:ThumbFinger1/ninja_rig_0004:ThumbFinger2
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:ThumbFinger1/ninja_rig_0004:ThumbFinger2/ninja_rig_0004:ThumbFinger3
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:FitSkeleton/ninja_rig_0004:Root/ninja_rig_0004:Spine1/ninja_rig_0004:Chest/ninja_rig_0004:Scapula/ninja_rig_0004:Shoulder/ninja_rig_0004:Elbow/ninja_rig_0004:Wrist/ninja_rig_0004:ThumbFinger1/ninja_rig_0004:ThumbFinger2/ninja_rig_0004:ThumbFinger3/ninja_rig_0004:ThumbFinger4
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:AimSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:AimSystem/ninja_rig_0004:AimEye
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:AimSystem/ninja_rig_0004:AimEye/ninja_rig_0004:AimOffsetEye
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:AimSystem/ninja_rig_0004:AimEye/ninja_rig_0004:AimOffsetEye/ninja_rig_0004:AimFollowEye
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:AimSystem/ninja_rig_0004:AimEye/ninja_rig_0004:AimOffsetEye/ninja_rig_0004:AimFollowOffEye
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:AimSystem/ninja_rig_0004:AimEye/ninja_rig_0004:AimOffsetEye/ninja_rig_0004:AimFollowOnEye
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:BendSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:ConstraintSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:DrivingSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:DynamicSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKIKSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKIKSystem/ninja_rig_0004:FKIKParentConstraintArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKIKSystem/ninja_rig_0004:FKIKParentConstraintArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKIKSystem/ninja_rig_0004:FKIKParentConstraintLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKIKSystem/ninja_rig_0004:FKIKParentConstraintLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKIKSystem/ninja_rig_0004:FKIKParentConstraintSpine_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKOffsetRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKOffsetRoot_M/ninja_rig_0004:FKExtraRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M/ninja_rig_0004:FKOffsetNeck_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M/ninja_rig_0004:FKOffsetNeck_M/ninja_rig_0004:FKExtraNeck_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M/ninja_rig_0004:FKOffsetScapula_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M/ninja_rig_0004:FKOffsetScapula_L/ninja_rig_0004:FKExtraScapula_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M/ninja_rig_0004:FKOffsetScapula_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToChest_M/ninja_rig_0004:FKOffsetScapula_R/ninja_rig_0004:FKExtraScapula_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L/ninja_rig_0004:FKXAnkle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L/ninja_rig_0004:FKXAnkle_L/ninja_rig_0004:AlignIKToAnkle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L/ninja_rig_0004:FKXAnkle_L/ninja_rig_0004:FKOffsetToes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L/ninja_rig_0004:FKXAnkle_L/ninja_rig_0004:FKOffsetToes_L/ninja_rig_0004:FKExtraToes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L/ninja_rig_0004:FKXAnkle_L/ninja_rig_0004:FKOffsetToes_L/ninja_rig_0004:FKExtraToes_L/ninja_rig_0004:FKToes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_L/ninja_rig_0004:FKExtraHip_L/ninja_rig_0004:FKHip_L/ninja_rig_0004:FKXHip_L/ninja_rig_0004:FKOffsetKnee_L/ninja_rig_0004:FKExtraKnee_L/ninja_rig_0004:FKKnee_L/ninja_rig_0004:FKXKnee_L/ninja_rig_0004:FKOffsetAnkle_L/ninja_rig_0004:FKExtraAnkle_L/ninja_rig_0004:FKAnkle_L/ninja_rig_0004:FKXAnkle_L/ninja_rig_0004:FKOffsetToes_L/ninja_rig_0004:FKExtraToes_L/ninja_rig_0004:FKToes_L/ninja_rig_0004:FKXToes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R/ninja_rig_0004:FKXAnkle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R/ninja_rig_0004:FKXAnkle_R/ninja_rig_0004:AlignIKToAnkle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R/ninja_rig_0004:FKXAnkle_R/ninja_rig_0004:FKOffsetToes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R/ninja_rig_0004:FKXAnkle_R/ninja_rig_0004:FKOffsetToes_R/ninja_rig_0004:FKExtraToes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R/ninja_rig_0004:FKXAnkle_R/ninja_rig_0004:FKOffsetToes_R/ninja_rig_0004:FKExtraToes_R/ninja_rig_0004:FKToes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToRoot_M/ninja_rig_0004:FKOffsetHip_R/ninja_rig_0004:FKExtraHip_R/ninja_rig_0004:FKHip_R/ninja_rig_0004:FKXHip_R/ninja_rig_0004:FKOffsetKnee_R/ninja_rig_0004:FKExtraKnee_R/ninja_rig_0004:FKKnee_R/ninja_rig_0004:FKXKnee_R/ninja_rig_0004:FKOffsetAnkle_R/ninja_rig_0004:FKExtraAnkle_R/ninja_rig_0004:FKAnkle_R/ninja_rig_0004:FKXAnkle_R/ninja_rig_0004:FKOffsetToes_R/ninja_rig_0004:FKExtraToes_R/ninja_rig_0004:FKToes_R/ninja_rig_0004:FKXToes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L/ninja_rig_0004:FKXElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L/ninja_rig_0004:FKXElbow_L/ninja_rig_0004:FKOffsetWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L/ninja_rig_0004:FKXElbow_L/ninja_rig_0004:FKOffsetWrist_L/ninja_rig_0004:FKExtraWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L/ninja_rig_0004:FKXElbow_L/ninja_rig_0004:FKOffsetWrist_L/ninja_rig_0004:FKExtraWrist_L/ninja_rig_0004:FKWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L/ninja_rig_0004:FKXElbow_L/ninja_rig_0004:FKOffsetWrist_L/ninja_rig_0004:FKExtraWrist_L/ninja_rig_0004:FKWrist_L/ninja_rig_0004:FKXWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_L/ninja_rig_0004:FKOffsetShoulder_L/ninja_rig_0004:FKExtraShoulder_L/ninja_rig_0004:FKShoulder_L/ninja_rig_0004:FKXShoulder_L/ninja_rig_0004:FKOffsetElbow_L/ninja_rig_0004:FKExtraElbow_L/ninja_rig_0004:FKElbow_L/ninja_rig_0004:FKXElbow_L/ninja_rig_0004:FKOffsetWrist_L/ninja_rig_0004:FKExtraWrist_L/ninja_rig_0004:FKWrist_L/ninja_rig_0004:FKXWrist_L/ninja_rig_0004:AlignIKToWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_R/ninja_rig_0004:FKOffsetShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToScapula_R/ninja_rig_0004:FKOffsetShoulder_R/ninja_rig_0004:FKExtraShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetIndexFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetIndexFinger1_L/ninja_rig_0004:SDK1FKIndexFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetIndexFinger1_L/ninja_rig_0004:SDK1FKIndexFinger1_L/ninja_rig_0004:SDK2FKIndexFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetIndexFinger1_L/ninja_rig_0004:SDK1FKIndexFinger1_L/ninja_rig_0004:SDK2FKIndexFinger1_L/ninja_rig_0004:FKExtraIndexFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetMiddleFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetMiddleFinger1_L/ninja_rig_0004:SDK1FKMiddleFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetMiddleFinger1_L/ninja_rig_0004:SDK1FKMiddleFinger1_L/ninja_rig_0004:FKExtraMiddleFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetPinkyFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetPinkyFinger1_L/ninja_rig_0004:SDK1FKPinkyFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetPinkyFinger1_L/ninja_rig_0004:SDK1FKPinkyFinger1_L/ninja_rig_0004:SDK2FKPinkyFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetPinkyFinger1_L/ninja_rig_0004:SDK1FKPinkyFinger1_L/ninja_rig_0004:SDK2FKPinkyFinger1_L/ninja_rig_0004:FKExtraPinkyFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetRingFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetRingFinger1_L/ninja_rig_0004:SDK1FKRingFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetRingFinger1_L/ninja_rig_0004:SDK1FKRingFinger1_L/ninja_rig_0004:SDK2FKRingFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetRingFinger1_L/ninja_rig_0004:SDK1FKRingFinger1_L/ninja_rig_0004:SDK2FKRingFinger1_L/ninja_rig_0004:FKExtraRingFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetThumbFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_L/ninja_rig_0004:FKOffsetThumbFinger1_L/ninja_rig_0004:FKExtraThumbFinger1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetIndexFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetIndexFinger1_R/ninja_rig_0004:SDK1FKIndexFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetIndexFinger1_R/ninja_rig_0004:SDK1FKIndexFinger1_R/ninja_rig_0004:SDK2FKIndexFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetIndexFinger1_R/ninja_rig_0004:SDK1FKIndexFinger1_R/ninja_rig_0004:SDK2FKIndexFinger1_R/ninja_rig_0004:FKExtraIndexFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetMiddleFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetMiddleFinger1_R/ninja_rig_0004:SDK1FKMiddleFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetMiddleFinger1_R/ninja_rig_0004:SDK1FKMiddleFinger1_R/ninja_rig_0004:FKExtraMiddleFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetPinkyFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetPinkyFinger1_R/ninja_rig_0004:SDK1FKPinkyFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetPinkyFinger1_R/ninja_rig_0004:SDK1FKPinkyFinger1_R/ninja_rig_0004:SDK2FKPinkyFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetPinkyFinger1_R/ninja_rig_0004:SDK1FKPinkyFinger1_R/ninja_rig_0004:SDK2FKPinkyFinger1_R/ninja_rig_0004:FKExtraPinkyFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetRingFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetRingFinger1_R/ninja_rig_0004:SDK1FKRingFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetRingFinger1_R/ninja_rig_0004:SDK1FKRingFinger1_R/ninja_rig_0004:SDK2FKRingFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetRingFinger1_R/ninja_rig_0004:SDK1FKRingFinger1_R/ninja_rig_0004:SDK2FKRingFinger1_R/ninja_rig_0004:FKExtraRingFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetThumbFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:FKSystem/ninja_rig_0004:FKParentConstraintToWrist_R/ninja_rig_0004:FKOffsetThumbFinger1_R/ninja_rig_0004:FKExtraThumbFinger1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:GlobalSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:GlobalSystem/ninja_rig_0004:GlobalOffsetHead_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:GlobalSystem/ninja_rig_0004:GlobalOffsetHead_M/ninja_rig_0004:GlobalHead_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKCurve
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKCurve/ninja_rig_0004:IKSpineCurve_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:IKOffsetArm_LFollow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:IKOffsetArm_LFollowNoScale
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:IKOffsetArm_RFollow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:IKOffsetArm_RFollowNoScale
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:PoleOffsetArm_RFollow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:PoleOffsetArm_RFollowNoScale
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:PoleOffsetLeg_LFollow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:PoleOffsetLeg_LFollowNoScale
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:PoleOffsetLeg_RFollow
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKFollow/ninja_rig_0004:PoleOffsetLeg_RFollowNoScale
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_L/ninja_rig_0004:IKExtraArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R/ninja_rig_0004:IKExtraArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R/ninja_rig_0004:IKExtraArm_R/ninja_rig_0004:IKArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R/ninja_rig_0004:IKExtraArm_R/ninja_rig_0004:IKArm_R/ninja_rig_0004:IKArmHandle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R/ninja_rig_0004:IKExtraArm_R/ninja_rig_0004:IKArm_R/ninja_rig_0004:IKFKAlignedOffsetArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R/ninja_rig_0004:IKExtraArm_R/ninja_rig_0004:IKArm_R/ninja_rig_0004:IKFKAlignedOffsetArm_R/ninja_rig_0004:IKFKAlignedArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetArm_R/ninja_rig_0004:IKExtraArm_R/ninja_rig_0004:IKArm_R/ninja_rig_0004:IKmessureConstrainToArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetLeg_L/ninja_rig_0004:IKExtraLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKOffsetLeg_R/ninja_rig_0004:IKExtraLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M/ninja_rig_0004:IKExtraSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M/ninja_rig_0004:IKExtraSpine1_M/ninja_rig_0004:IKSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M/ninja_rig_0004:IKExtraSpine1_M/ninja_rig_0004:IKSpine1_M/ninja_rig_0004:IKSpine0AlignTo_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M/ninja_rig_0004:IKExtraSpine1_M/ninja_rig_0004:IKSpine1_M/ninja_rig_0004:IKSpineLocator0_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M/ninja_rig_0004:IKExtraSpine1_M/ninja_rig_0004:IKSpine1_M/ninja_rig_0004:IKStiffOrientSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine1_M/ninja_rig_0004:IKExtraSpine1_M/ninja_rig_0004:IKSpine1_M/ninja_rig_0004:IKStiffOrientSpine1_M/ninja_rig_0004:IKSpineLocator1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M/ninja_rig_0004:IKSpine2AlignTo_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M/ninja_rig_0004:IKSpine2AlignUnIKTwistToOffset_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M/ninja_rig_0004:IKSpine2AlignUnIKTwistToOffset_M/ninja_rig_0004:IKSpine2AlignUnIKTwistTo_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M/ninja_rig_0004:IKSpineLocator3_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M/ninja_rig_0004:IKStiffOrientSpine2_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKRootConstraint/ninja_rig_0004:IKOffsetSpine2_M/ninja_rig_0004:IKExtraSpine2_M/ninja_rig_0004:IKSpine2_M/ninja_rig_0004:IKStiffOrientSpine2_M/ninja_rig_0004:IKSpineLocator2_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKScalerChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKScalerRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKScalerSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:IKSpineHandle_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleAimLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleAimLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetArm_L/ninja_rig_0004:PoleExtraArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetArm_R/ninja_rig_0004:PoleExtraArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetArm_R/ninja_rig_0004:PoleExtraArm_R/ninja_rig_0004:PoleArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetLeg_L/ninja_rig_0004:PoleExtraLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKHandle/ninja_rig_0004:PoleOffsetLeg_R/ninja_rig_0004:PoleExtraLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKMessureFromHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKX2Hip_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKX2Knee_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKXAnkle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKXAnkle_L/ninja_rig_0004:IKX2Ankle_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKXAnkle_L/ninja_rig_0004:IKXToes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKXAnkle_L/ninja_rig_0004:IKXToes_L/ninja_rig_0004:IKX2Toes_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKXAnkle_L/ninja_rig_0004:IKXToes_L/ninja_rig_0004:IKXToesEnd_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:IKXAnkle_L/ninja_rig_0004:IKXToes_L/ninja_rig_0004:IKXToesEnd_L/ninja_rig_0004:IKX2ToesEnd_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_L/ninja_rig_0004:IKXOffsetHip_L/ninja_rig_0004:IKXHip_L/ninja_rig_0004:IKXKnee_L/ninja_rig_0004:PoleAnnotationLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKMessureFromHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKX2Hip_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKX2Knee_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKXAnkle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKXAnkle_R/ninja_rig_0004:IKX2Ankle_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKXAnkle_R/ninja_rig_0004:IKXToes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKXAnkle_R/ninja_rig_0004:IKXToes_R/ninja_rig_0004:IKX2Toes_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKXAnkle_R/ninja_rig_0004:IKXToes_R/ninja_rig_0004:IKXToesEnd_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:IKXAnkle_R/ninja_rig_0004:IKXToes_R/ninja_rig_0004:IKXToesEnd_R/ninja_rig_0004:IKX2ToesEnd_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintHip_R/ninja_rig_0004:IKXOffsetHip_R/ninja_rig_0004:IKXHip_R/ninja_rig_0004:IKXKnee_R/ninja_rig_0004:PoleAnnotationLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKfake1Spine_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKfake1Spine_M/ninja_rig_0004:IKFake1UpLocSpine_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKfake1Spine_M/ninja_rig_0004:IKfake2Spine_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKfake1Spine_M/ninja_rig_0004:IKfake2Spine_M/ninja_rig_0004:IKfake3Spine_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKSpSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKSpSpine1_M/ninja_rig_0004:IKSpChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKSpSpine1_M/ninja_rig_0004:IKSpChest_M/ninja_rig_0004:IKSpChestFollowOffset_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKfake0Spine_M/ninja_rig_0004:IKSpSpine1_M/ninja_rig_0004:IKSpSpine1FollowOffset_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M/ninja_rig_0004:IKXRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M/ninja_rig_0004:IKXRoot_M/ninja_rig_0004:IKX2Root_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M/ninja_rig_0004:IKXRoot_M/ninja_rig_0004:IKXSpine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M/ninja_rig_0004:IKXRoot_M/ninja_rig_0004:IKXSpine1_M/ninja_rig_0004:IKX2Spine1_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M/ninja_rig_0004:IKXRoot_M/ninja_rig_0004:IKXSpine1_M/ninja_rig_0004:IKXChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintRoot_M/ninja_rig_0004:IKXOffsetRoot_M/ninja_rig_0004:IKXRoot_M/ninja_rig_0004:IKXSpine1_M/ninja_rig_0004:IKXChest_M/ninja_rig_0004:IKX2Chest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKMessureFromShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L/ninja_rig_0004:IKX2Shoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L/ninja_rig_0004:IKXElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L/ninja_rig_0004:IKXElbow_L/ninja_rig_0004:IKX2Elbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L/ninja_rig_0004:IKXElbow_L/ninja_rig_0004:IKXWrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L/ninja_rig_0004:IKXElbow_L/ninja_rig_0004:IKXWrist_L/ninja_rig_0004:IKX2Wrist_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_L/ninja_rig_0004:IKXOffsetShoulder_L/ninja_rig_0004:IKXShoulder_L/ninja_rig_0004:IKXElbow_L/ninja_rig_0004:PoleAnnotationArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKMessureFromShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R/ninja_rig_0004:IKX2Shoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R/ninja_rig_0004:IKXElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R/ninja_rig_0004:IKXElbow_R/ninja_rig_0004:IKX2Elbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R/ninja_rig_0004:IKXElbow_R/ninja_rig_0004:IKXWrist_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R/ninja_rig_0004:IKXElbow_R/ninja_rig_0004:IKXWrist_R/ninja_rig_0004:IKX2Wrist_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKParentConstraintShoulder_R/ninja_rig_0004:IKXOffsetShoulder_R/ninja_rig_0004:IKXShoulder_R/ninja_rig_0004:IKXElbow_R/ninja_rig_0004:PoleAnnotationArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKSpSpineOffset_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKSpSpineOffset_M/ninja_rig_0004:IKSpRoot_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKJoints/ninja_rig_0004:IKSpSpineOffset_M/ninja_rig_0004:IKSpRoot_M/ninja_rig_0004:IKSpRootFollowOffset_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKdistanceArm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKdistanceArm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKdistanceLeg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKdistanceLeg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Arm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Arm_L/ninja_rig_0004:IKmessureLoc2Arm_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Arm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Arm_R/ninja_rig_0004:IKmessureLoc2Arm_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Leg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Leg_L/ninja_rig_0004:IKmessureLoc2Leg_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Leg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKMessure/ninja_rig_0004:IKmessureLoc1Leg_R/ninja_rig_0004:IKmessureLoc2Leg_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic/ninja_rig_0004:IKOffsetArm_LStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic/ninja_rig_0004:IKOffsetArm_RStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic/ninja_rig_0004:PoleOffsetArm_LStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic/ninja_rig_0004:PoleOffsetArm_RStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic/ninja_rig_0004:PoleOffsetLeg_LStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:IKSystem/ninja_rig_0004:IKStatic/ninja_rig_0004:PoleOffsetLeg_RStatic
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:RootSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:RootSystem/ninja_rig_0004:LegLockConstrained
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:RootSystem/ninja_rig_0004:RootOffsetX_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:RootSystem/ninja_rig_0004:RootOffsetX_M/ninja_rig_0004:RootExtraX_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:FKIKMixElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:FKIKMixElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetChest_M/ninja_rig_0004:TwistFollowChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetChest_M/ninja_rig_0004:TwistFollowChest_M/ninja_rig_0004:UnTwistIKChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetElbow_L/ninja_rig_0004:TwistFollowElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetElbow_L/ninja_rig_0004:TwistFollowElbow_L/ninja_rig_0004:UnTwistIKElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetElbow_R/ninja_rig_0004:TwistFollowElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetElbow_R/ninja_rig_0004:TwistFollowElbow_R/ninja_rig_0004:UnTwistIKElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetShoulder_L/ninja_rig_0004:TwistFollowShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetShoulder_L/ninja_rig_0004:TwistFollowShoulder_L/ninja_rig_0004:UnTwistIKShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetShoulder_R/ninja_rig_0004:TwistFollowShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowOffsetShoulder_R/ninja_rig_0004:TwistFollowShoulder_R/ninja_rig_0004:UnTwistIKShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetChest_M/ninja_rig_0004:TwistFollowParentChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetChest_M/ninja_rig_0004:TwistFollowParentChest_M/ninja_rig_0004:UnTwistChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetChest_M/ninja_rig_0004:TwistFollowParentChest_M/ninja_rig_0004:UnTwistChest_M/ninja_rig_0004:TwistBalancerChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetChest_M/ninja_rig_0004:TwistFollowParentChest_M/ninja_rig_0004:UnTwistChest_M/ninja_rig_0004:UnTwistEndChest_M
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L/ninja_rig_0004:UnTwistElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L/ninja_rig_0004:UnTwistElbow_L/ninja_rig_0004:TwistBalancerElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L/ninja_rig_0004:UnTwistElbow_L/ninja_rig_0004:TwisterElbow0_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L/ninja_rig_0004:UnTwistElbow_L/ninja_rig_0004:TwisterElbow1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L/ninja_rig_0004:UnTwistElbow_L/ninja_rig_0004:TwisterElbow2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_L/ninja_rig_0004:TwistFollowParentElbow_L/ninja_rig_0004:UnTwistElbow_L/ninja_rig_0004:UnTwistEndElbow_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R/ninja_rig_0004:UnTwistElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R/ninja_rig_0004:UnTwistElbow_R/ninja_rig_0004:TwistBalancerElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R/ninja_rig_0004:UnTwistElbow_R/ninja_rig_0004:TwisterElbow0_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R/ninja_rig_0004:UnTwistElbow_R/ninja_rig_0004:TwisterElbow1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R/ninja_rig_0004:UnTwistElbow_R/ninja_rig_0004:TwisterElbow2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetElbow_R/ninja_rig_0004:TwistFollowParentElbow_R/ninja_rig_0004:UnTwistElbow_R/ninja_rig_0004:UnTwistEndElbow_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L/ninja_rig_0004:UnTwistShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L/ninja_rig_0004:UnTwistShoulder_L/ninja_rig_0004:TwistBalancerShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L/ninja_rig_0004:UnTwistShoulder_L/ninja_rig_0004:TwisterShoulder0_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L/ninja_rig_0004:UnTwistShoulder_L/ninja_rig_0004:TwisterShoulder1_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L/ninja_rig_0004:UnTwistShoulder_L/ninja_rig_0004:TwisterShoulder2_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_L/ninja_rig_0004:TwistFollowParentShoulder_L/ninja_rig_0004:UnTwistShoulder_L/ninja_rig_0004:UnTwistEndShoulder_L
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R/ninja_rig_0004:UnTwistShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R/ninja_rig_0004:UnTwistShoulder_R/ninja_rig_0004:TwistBalancerShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R/ninja_rig_0004:UnTwistShoulder_R/ninja_rig_0004:TwisterShoulder0_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R/ninja_rig_0004:UnTwistShoulder_R/ninja_rig_0004:TwisterShoulder1_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R/ninja_rig_0004:UnTwistShoulder_R/ninja_rig_0004:TwisterShoulder2_R
+        weight: 1
+      - path: ninja_rig_0004:Group/ninja_rig_0004:Main/ninja_rig_0004:MotionSystem/ninja_rig_0004:TwistSystem/ninja_rig_0004:TwistFollowParentOffsetShoulder_R/ninja_rig_0004:TwistFollowParentShoulder_R/ninja_rig_0004:UnTwistShoulder_R/ninja_rig_0004:UnTwistEndShoulder_R
+        weight: 1
+      - path: ninja_rig_0004:group1
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Cloth2:Group2
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Extract2:Group13289
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Face:Group3
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Ninja:Cloth2:Group2
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Ninja:Cloth2:Group2/ninja_rig_0004:Ninja:Eyes:polySurface6
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Ninja:Cloth2:Group2/ninja_rig_0004:ninja_body
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:Ninja:Hand:fingers
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:pCube1
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:pSphere1
+        weight: 1
+      - path: ninja_rig_0004:group1/ninja_rig_0004:pSphere2
+        weight: 1
+      - path: ninja_rig_0004:jnt_blade_01
+        weight: 1
+      - path: ninja_rig_0004:jnt_blade_01/ninja_rig_0004:jnt_blade_02
+        weight: 1
+      - path: ninja_rig_0004:jnt_blade_01/ninja_rig_0004:jnt_blade_02/ninja_rig_0004:jnt_blade_03
+        weight: 1
+      - path: ninja_rig_0004:jnt_blade_01/ninja_rig_0004:jnt_blade_02/ninja_rig_0004:jnt_blade_03/ninja_rig_0004:jnt_blade_04
+        weight: 1
+      - path: ninja_rig_0004:jnt_blade_01/ninja_rig_0004:jnt_blade_02/ninja_rig_0004:jnt_blade_03/ninja_rig_0004:jnt_blade_04/ninja_rig_0004:jnt_blade_05
+        weight: 1
+      - path: ninja_rig_0004:jnt_blade_01/ninja_rig_0004:jnt_blade_02/ninja_rig_0004:jnt_blade_03/ninja_rig_0004:jnt_blade_04/ninja_rig_0004:jnt_blade_05/ninja_rig_0004:jnt_blade_06
+        weight: 1
+      - path: ninja_rig_0004:jnt_eye
+        weight: 1
+      - path: ninja_rig_0004:jnt_eye1
+        weight: 1
+      - path: ninja_rig_0004:jnt_pet
+        weight: 1
+      - path: ninja_rig_0004:jnt_pet/ninja_rig_0004:jnt_pet1
+        weight: 1
+      - path: ninja_rig_0004:jnt_pet/ninja_rig_0004:jnt_pet1/ninja_rig_0004:jnt_pet2
+        weight: 1
+      - path: ninja_rig_0004:jnt_pet3
+        weight: 1
+      - path: ninja_rig_0004:jnt_pet3/ninja_rig_0004:jnt_pet1 1
+        weight: 1
+      - path: ninja_rig_0004:jnt_pet3/ninja_rig_0004:jnt_pet1 1/ninja_rig_0004:jnt_pet2
+          1
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend/ninja_rig_0004:Ninja:Hand:jnt_bend1
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend/ninja_rig_0004:Ninja:Hand:jnt_bend1/ninja_rig_0004:Ninja:Hand:jnt_bend2
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend/ninja_rig_0004:Ninja:Hand:jnt_bend1/ninja_rig_0004:Ninja:Hand:jnt_bend2/ninja_rig_0004:Ninja:Hand:jnt_bend3
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend4
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend4/ninja_rig_0004:Ninja:Hand:jnt_bend1
+          1
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend4/ninja_rig_0004:Ninja:Hand:jnt_bend1
+          1/ninja_rig_0004:Ninja:Hand:jnt_bend2 1
+        weight: 1
+      - path: ninja_rig_0004:Ninja:Hand:jnt_bend4/ninja_rig_0004:Ninja:Hand:jnt_bend1
+          1/ninja_rig_0004:Ninja:Hand:jnt_bend2 1/ninja_rig_0004:Ninja:Hand:jnt_bend3
+          1
+        weight: 1
+      - path: tweenMachineData
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: ninja
+  assetBundleVariant: 
